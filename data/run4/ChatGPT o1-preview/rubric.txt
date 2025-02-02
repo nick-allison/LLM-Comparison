@@ -1,0 +1,351 @@
+**Rubric for Testing Model Performance on Each Prompt**
+
+---
+
+**Prompt 1:** *A train leaves Station A heading east at 60 km/h. Two hours later, another train leaves Station A heading east at 90 km/h. How long will it take for the second train to catch up to the first train?*
+
+- **Understanding the problem setup:** 1 point
+- **Calculating the lead distance of the first train:** 1 point
+- **Setting up the equation to find the catch-up time:** 1 point
+- **Solving for the correct time:** 1 point
+- **Providing the correct answer with units (hours):** 1 point
+
+---
+
+**Prompt 2:** *In a room, there are five boxes labeled A, B, C, D, and E. Only one of the boxes contains a prize. You are told that:*
+
+- *The prize is not in box A.*
+- *The prize is not in box C.*
+- *The prize is in box D or E.*
+*However, exactly one of these statements is false. Which box contains the prize?*
+
+- **Recognizing that exactly one statement is false:** 1 point
+- **Analyzing the possibilities based on the statements:** 2 points
+- **Identifying the correct box containing the prize (Box C):** 2 points
+
+---
+
+**Prompt 3:** *If all Bloops are Blips, and all Blips are Bleeps, are all Bloops necessarily Bleeps? Explain your reasoning.*
+
+- **Correct answer (Yes, all Bloops are Bleeps):** 1 point
+- **Logical explanation using syllogism or transitive property:** 4 points
+
+---
+
+**Prompt 4:** *Sarah is taller than Emily. Emily is shorter than Rachel but taller than Laura. Is Sarah taller than Rachel?*
+
+- **Arranging the individuals based on height comparisons:** 2 points
+- **Determining the relationship between Sarah and Rachel's heights:** 2 points
+- **Providing the correct conclusion with explanation (Cannot determine):** 1 point
+
+---
+
+**Prompt 5:** *Calculate the next number in the sequence: 2, 3, 5, 9, 17, __*
+
+- **Identifying the pattern (each number is one less than double the previous number):** 2 points
+- **Calculating the next number correctly (33):** 2 points
+- **Providing the correct next number:** 1 point
+
+---
+
+**Prompt 6:** *An island has inhabitants who either always tell the truth or always lie. You meet two inhabitants, A and B. A says, "We are both liars." What type of inhabitants are A and B?*
+
+- **Understanding that a truth-teller cannot claim to be a liar:** 1 point
+- **Determining that A must be a liar:** 2 points
+- **Concluding that B is a truth-teller:** 1 point
+- **Providing the correct explanation:** 1 point
+
+---
+
+**Prompt 7:** *Explain how you can measure exactly 4 liters of water using only a 3-liter and a 5-liter jug.*
+
+- **Describing each step clearly and sequentially:** 3 points
+- **Correctly measuring 4 liters using the jugs:** 2 points
+
+---
+
+**Prompt 8:** *A farmer has to transport a wolf, a goat, and a cabbage across a river...*
+
+- **Providing the correct sequence of crossings:** 4 points
+- **Explaining why this sequence prevents losses:** 1 point
+
+---
+
+**Prompt 9:** *If the day after tomorrow is four days before Monday, what day is it today?*
+
+- **Calculating the day accurately (Friday):** 3 points
+- **Explaining each step of the calculation:** 2 points
+
+---
+
+**Prompt 10:** *A man looks at a portrait and says...*
+
+- **Interpreting the statement correctly:** 2 points
+- **Logical reasoning to identify the person in the portrait:** 2 points
+- **Correct answer (He is looking at his son):** 1 point
+
+---
+
+**Prompt 11:** *You have three switches outside a windowless room...*
+
+- **Describing the correct method involving heat and the bulb's state:** 4 points
+- **Clarity and completeness of the explanation:** 1 point
+
+---
+
+**Prompt 12:** *Translate the following argument into logical notation and determine its validity...*
+
+- **Translating the statements into logical notation correctly:** 2 points
+- **Identifying the logical fallacy (affirming the consequent):** 2 points
+- **Concluding the argument is invalid:** 1 point
+
+---
+
+**Prompt 13:** *A company's workforce is 40% female...*
+
+- **Calculating the percentage of females receiving bonuses:** 1 point
+- **Calculating the percentage of males receiving bonuses:** 1 point
+- **Calculating the combined percentage accurately (58%):** 2 points
+- **Providing the correct answer with explanation:** 1 point
+
+---
+
+**Prompt 14:** *In a deck of cards, what is the probability of drawing two aces in a row without replacement?*
+
+- **Calculating the probability of drawing the first ace (4/52):** 1 point
+- **Calculating the probability of drawing the second ace (3/51):** 1 point
+- **Multiplying probabilities correctly (1/221):** 2 points
+- **Providing the correct simplified probability:** 1 point
+
+---
+
+**Prompt 15:** *A cube has all sides painted red...*
+
+- **Understanding the cube is divided into 27 smaller cubes:** 1 point
+- **Identifying the cubes with exactly one painted face (the center cubes of each face):** 2 points
+- **Calculating the correct number of such cubes (6):** 1 point
+- **Providing the correct answer:** 1 point
+
+---
+
+**Prompt 16:** *If I have two envelopes, one containing twice as much money as the other...*
+
+- **Explaining the two-envelope paradox correctly:** 2 points
+- **Analyzing the expected value of switching:** 2 points
+- **Providing a reasoned conclusion (Indifferent to switching):** 1 point
+
+---
+
+**Prompt 17:** *Explain the Monty Hall problem and why switching doors increases your chances of winning.*
+
+- **Describing the Monty Hall problem setup accurately:** 2 points
+- **Explaining why switching doors increases win probability to 2/3:** 2 points
+- **Providing a clear and logical explanation:** 1 point
+
+---
+
+**Prompt 18:** *Given that the sum of two numbers is 10 and their product is 21...*
+
+- **Setting up the equations correctly:** 2 points
+- **Solving the quadratic equation accurately:** 2 points
+- **Identifying the correct numbers (3 and 7):** 1 point
+
+---
+
+**Prompt 19:** *A ladder is leaning against a wall...*
+
+- **Explaining that the angle decreases over time:** 1 point
+- **Describing the relationship between distance and angle using trigonometry:** 2 points
+- **Providing a clear explanation of how the angle changes:** 2 points
+
+---
+
+**Prompt 20:** *Describe a real-world scenario where increasing one variable results in the decrease of another...*
+
+- **Providing a valid example (e.g., speed and travel time):** 2 points
+- **Explaining how the variables are inversely proportional:** 2 points
+- **Clarity of the explanation:** 1 point
+
+---
+
+**Prompt 21:** *How many times does the digit "1" appear when you write the numbers from 1 to 100?*
+
+- **Counting occurrences in units place (10 times):** 1 point
+- **Counting occurrences in tens place (10 times):** 1 point
+- **Accounting for the number 100 if applicable:** 1 point
+- **Calculating the total occurrences correctly (21 times):** 2 points
+
+---
+
+**Prompt 22:** *Two cyclists start from the same point but in opposite directions...*
+
+- **Calculating their relative speed (25 km/h):** 1 point
+- **Determining the total distance covered in 2 hours (50 km):** 1 point
+- **Calculating the number of times they meet (10 times):** 2 points
+- **Providing the correct answer:** 1 point
+
+---
+
+**Prompt 23:** *A barrel of water weighs 60 pounds...*
+
+- **Recognizing it's a riddle requiring lateral thinking:** 1 point
+- **Providing the correct answer (Add a hole to let water out):** 3 points
+- **Explanation of the answer:** 1 point
+
+---
+
+**Prompt 24:** *Suppose you are given 8 identical-looking balls...*
+
+- **Describing the weighing method accurately (using a balance scale):** 2 points
+- **Achieving the solution in the fewest weighings (two weighings):** 2 points
+- **Providing a clear explanation of steps:** 1 point
+
+---
+
+**Prompt 25:** *Explain why the statement "This statement is false" creates a paradox.*
+
+- **Identifying it as the liar paradox:** 1 point
+- **Explaining the self-reference issue causing the paradox:** 2 points
+- **Analyzing the implications of the paradox:** 1 point
+- **Clarity of the explanation:** 1 point
+
+---
+
+**Prompt 26:** *Provide a counterexample to the statement: "All functions that are continuous are differentiable."*
+
+- **Choosing a correct counterexample (e.g., \( f(x) = |x| \)):** 2 points
+- **Explaining why the function is continuous but not differentiable at a point:** 2 points
+- **Providing a clear explanation:** 1 point
+
+---
+
+**Prompt 27:** *If you flip a fair coin three times, what is the probability of getting exactly two heads?*
+
+- **Calculating the total number of outcomes (8):** 1 point
+- **Identifying the number of favorable outcomes (3):** 2 points
+- **Calculating the correct probability (3/8):** 2 points
+
+---
+
+**Prompt 28:** *A father is three times as old as his son...*
+
+- **Setting up the algebraic equations correctly:** 2 points
+- **Solving the equations to find ages:** 2 points
+- **Providing the correct ages (Father: 45, Son: 15):** 1 point
+
+---
+
+**Prompt 29:** *Is it possible for two consecutive integers to both be prime numbers...*
+
+- **Noting that 2 and 3 are consecutive prime numbers:** 2 points
+- **Explaining why no other consecutive integers can both be prime:** 2 points
+- **Providing the correct conclusion:** 1 point
+
+---
+
+**Prompt 30:** *You have two ropes that each take exactly one hour to burn...*
+
+- **Describing the correct method involving igniting ropes at both ends and one end:** 3 points
+- **Explaining how this measures 45 minutes precisely:** 2 points
+
+---
+
+**Prompt 31:** *If today is Wednesday, what day will it be 100 days from now?*
+
+- **Calculating the number of weeks and extra days (100 ÷ 7 = 14 weeks and 2 days):** 2 points
+- **Determining the future day (Wednesday + 2 days = Friday):** 2 points
+- **Providing the correct answer (Friday):** 1 point
+
+---
+
+**Prompt 32:** *Explain the difference between correlation and causation...*
+
+- **Defining correlation correctly:** 1 point
+- **Defining causation correctly:** 1 point
+- **Explaining why correlation does not imply causation with an example:** 2 points
+- **Clarity and completeness of the explanation:** 1 point
+
+---
+
+**Prompt 33:** *Given the premises "All artists are eccentric" and "Some musicians are artists"...*
+
+- **Translating the premises into logical statements:** 2 points
+- **Concluding that some musicians are eccentric:** 2 points
+- **Explaining the reasoning clearly:** 1 point
+
+---
+
+**Prompt 34:** *A bat and a ball cost $1.10 in total...*
+
+- **Setting up the correct equation:** 2 points
+- **Solving for the cost of the ball (5 cents):** 2 points
+- **Providing the correct answer with units:** 1 point
+
+---
+
+**Prompt 35:** *How many people are needed in a room to have a greater than 50% chance that at least two people share a birthday?*
+
+- **Identifying the minimum number of people (23):** 2 points
+- **Explaining the birthday paradox concept:** 2 points
+- **Providing the correct answer:** 1 point
+
+---
+
+**Prompt 36:** *If a tree falls in a forest and no one is around to hear it...*
+
+- **Discussing the physical definition of sound (vibrations):** 1 point
+- **Discussing the perceptual definition (requires a listener):** 1 point
+- **Analyzing from different philosophical viewpoints:** 2 points
+- **Providing a thoughtful conclusion:** 1 point
+
+---
+
+**Prompt 37:** *Can an omnipotent being create a stone so heavy that they cannot lift it...*
+
+- **Identifying the omnipotence paradox:** 1 point
+- **Exploring the logical implications of omnipotence limitations:** 2 points
+- **Discussing potential resolutions or philosophical interpretations:** 2 points
+
+---
+
+**Prompt 38:** *Explain the Prisoner's Dilemma and its significance in game theory.*
+
+- **Describing the Prisoner's Dilemma scenario accurately:** 2 points
+- **Explaining the concept of dominant strategies and Nash equilibrium:** 2 points
+- **Discussing its significance in economics or social sciences:** 1 point
+
+---
+
+**Prompt 39:** *Given the series of letters: D, F, I, M, R, __.*
+
+- **Identifying the pattern (incremental steps in alphabet positions):** 2 points
+- **Calculating the next letter correctly (Z):** 2 points
+- **Providing the correct answer with explanation:** 1 point
+
+---
+
+**Prompt 40:** *A square piece of paper is folded in half twice and then unfolded...*
+
+- **Determining the number of crease lines (2):** 2 points
+- **Describing how they intersect (perpendicularly at the center):** 2 points
+- **Clarity of the explanation:** 1 point
+
+---
+
+**Prompt 41:** *You are in a room with two doors...*
+
+- **Formulating the correct question to ask ("Which door would the other guard say is the door to freedom?"):** 3 points
+- **Explaining how this leads to choosing the correct door:** 1 point
+- **Clarity of the explanation:** 1 point
+
+---
+
+**Prompt 42:** *A conveyor belt moves at 1 meter per second...*
+
+- **Calculating the net speed of the object relative to the ground (0.5 m/s):** 2 points
+- **Determining the time to reach the end (100 m / 0.5 m/s = 200 seconds):** 2 points
+- **Providing the correct answer with units:** 1 point
+
+---
+
+5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5

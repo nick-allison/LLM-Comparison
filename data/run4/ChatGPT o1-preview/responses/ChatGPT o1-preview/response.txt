@@ -1,0 +1,40 @@
+It will take the second train 4 hours to catch up to the first train.
+The prize is in box B.
+Yes; if all Bloops are Blips and all Blips are Bleeps, then all Bloops are Bleeps.
+Cannot determine; there is not enough information to conclude whether Sarah is taller than Rachel.
+33
+A is a liar; B is a truth-teller.
+Fill the 5-liter jug, pour into the 3-liter jug to leave 2 liters in the 5-liter jug. Empty the 3-liter jug, transfer the 2 liters to it. Fill the 5-liter jug again, top off the 3-liter jug (adding 1 liter), leaving exactly 4 liters in the 5-liter jug.
+1. Take the goat across. 2. Return alone. 3. Take the wolf across. 4. Bring the goat back. 5. Take the cabbage across. 6. Return alone. 7. Take the goat across.
+Today is Tuesday.
+The man in the portrait is his son.
+Turn on the first switch for a few minutes, turn it off, turn on the second switch, then enter the room. If the light is on, it's the second switch; if the bulb is warm, it's the first; if it's off and cold, it's the third.
+The argument is invalid; from "If it rains, the ground gets wet" and "The ground is wet," we cannot conclude that it rained.
+58% of the total workforce received bonuses.
+The probability is 1/221.
+6 smaller cubes have exactly one face painted red.
+No, you should be indifferent to switching; knowing the amount doesn't provide an advantage in switching.
+Switching doors increases your chances of winning from 1/3 to 2/3 because initially you had a 1/3 chance, and Monty's reveal provides additional information.
+The numbers are 3 and 7.
+The angle between the ladder and the ground decreases over time.
+Increasing the speed of a car reduces the time to reach a destination, illustrating inverse proportionality.
+The digit "1" appears 21 times when writing numbers from 1 to 100.
+They will meet 10 times after 2 hours.
+Add a hole to the barrel to let water out until it weighs 40 pounds.
+Use a balance scale in at most two weighings to identify the heavier ball.
+Because it contradicts itself; if the statement is true, then it must be false, creating a paradox.
+The function f(x) = |x| is continuous but not differentiable at x = 0.
+The probability is 3/8.
+The son is 15 years old and the father is 45 years old.
+Yes; 2 and 3 are consecutive integers and both are prime numbers.
+Light one rope at both ends and the other at one end; when the first finishes burning, light the other end of the second rope.
+It will be Friday 100 days from now.
+Correlation is a statistical relationship between two variables, while causation means one variable causes the other; for example, ice cream sales and drowning rates are correlated but one doesn't cause the other.
+Yes; since some musicians are artists and all artists are eccentric, it follows that some musicians are eccentric.
+The ball costs $0.05.
+23 people are needed for a greater than 50% chance.
+Philosophically, it depends on the definition of sound; if sound requires perception, then no; if it's vibrations, then yes.
+It's a paradox questioning omnipotence; creating such a stone means there is something the being cannot do, which challenges the concept of omnipotence.
+The Prisoner's Dilemma illustrates how rational individuals might not cooperate even when it's in their best interest, highlighting strategic decision-making in game theory.
+The next letter is X.
+It will take 200 seconds for the object to reach the end.

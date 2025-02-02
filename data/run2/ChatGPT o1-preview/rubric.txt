@@ -1,0 +1,513 @@
+**Rubric for Prompt 1**
+
+*Question:* If all bloops are razzles, and some razzles are tocks, is it necessarily true that some bloops are tocks?
+
+- **Correct Answer (2 points):**
+  - States whether it is necessarily true that some bloops are tocks.
+  - The correct answer is **No**.
+- **Explanation (4 points):**
+  - **Logical Reasoning (2 points):** Explains the logical relationships between bloops, razzles, and tocks.
+  - **Use of Examples (1 point):** Provides an example or analogy to illustrate the reasoning.
+  - **Clarity (1 point):** Explanation is clear and easy to understand.
+
+**Total Points:** 6
+
+---
+
+**Rubric for Prompt 2**
+
+*Question:* A farmer has chickens and cows. There are 20 heads and 56 legs in total. How many chickens and cows are there?
+
+- **Correct Answer (2 points):**
+  - States the correct number of chickens and cows (12 chickens and 8 cows).
+- **Problem Setup (2 points):**
+  - **Equations (1 point):** Correctly sets up equations based on heads and legs.
+  - **Variables (1 point):** Clearly defines the variables used.
+- **Solution Process (2 points):**
+  - **Solving Equations (1 point):** Shows the steps in solving the equations.
+  - **Calculation Accuracy (1 point):** Performs calculations correctly.
+
+**Total Points:** 6
+
+---
+
+**Rubric for Prompt 3**
+
+*Question:* In a race of 5 people, Alex finishes before Bob, Charlie finishes after David, and Eve finishes after Bob but before Charlie. Who came in last?
+
+- **Correct Answer (2 points):**
+  - Identifies **Charlie** as the person who came in last.
+- **Ranking Order (3 points):**
+  - **Order Determination (2 points):** Correctly determines the finishing order of all five people.
+  - **Reasoning (1 point):** Explains how the given information leads to this order.
+- **Clarity (1 point):**
+  - The explanation is logical and easy to follow.
+
+**Total Points:** 6
+
+---
+
+**Rubric for Prompt 4**
+
+*Question:* A cube has a surface area of 54 square units. What is its volume?
+
+- **Correct Answer (2 points):**
+  - Provides the correct volume (**27 cubic units**).
+- **Understanding Formulas (2 points):**
+  - **Surface Area Formula (1 point):** Uses \(6a^2 = 54\) to find the side length.
+  - **Volume Formula (1 point):** Uses \(V = a^3\) to calculate the volume.
+- **Calculation Steps (2 points):**
+  - **Solving for Side Length (1 point):** Correctly calculates \(a = 3\).
+  - **Calculating Volume (1 point):** Shows the calculation of \(V = 3^3\).
+
+**Total Points:** 6
+
+---
+
+**Rubric for Prompt 5**
+
+*Question:* Explain how the introduction of a minimum wage could potentially lead to unemployment using economic theory.
+
+- **Understanding Economic Principles (3 points):**
+  - **Supply and Demand (1 point):** Explains how minimum wage is a price floor in the labor market.
+  - **Labor Surplus (1 point):** Describes how a higher wage can lead to excess supply of labor.
+  - **Unemployment (1 point):** Connects excess labor supply to potential unemployment.
+- **Use of Economic Models (2 points):**
+  - **Graphical Explanation (1 point):** References supply and demand curves.
+  - **Theoretical Support (1 point):** Cites relevant economic theories or laws.
+- **Clarity and Coherence (1 point):**
+  - Presents ideas logically and clearly.
+
+**Total Points:** 6
+
+---
+
+**Rubric for Prompt 6**
+
+*Question:* You have 8 identical-looking balls, but one is heavier. Using a balance scale, how can you find the heavier ball in just two weighings?
+
+- **Correct Method (4 points):**
+  - **First Weighing (2 points):** Divides balls into three groups (3, 3, and 2) and explains weighing.
+  - **Second Weighing (2 points):** Details the next steps based on the outcome of the first weighing to find the heavier ball.
+- **Explanation (2 points):**
+  - **Logical Reasoning (1 point):** Explains the rationale behind each weighing.
+  - **Efficiency (1 point):** Demonstrates understanding of minimizing weighings.
+
+**Total Points:** 6
+
+---
+
+**Rubric for Prompt 7**
+
+*Question:* If the sum of two numbers is 15 and their product is 56, what are the numbers?
+
+- **Correct Answer (2 points):**
+  - States the numbers correctly (**7 and 8**).
+- **Equation Setup (2 points):**
+  - **Sum Equation (1 point):** Sets up \( x + y = 15 \).
+  - **Product Equation (1 point):** Sets up \( x \times y = 56 \).
+- **Solution Process (2 points):**
+  - **Substitution or Factoring (1 point):** Uses appropriate method to solve.
+  - **Calculation Accuracy (1 point):** Performs calculations correctly.
+
+**Total Points:** 6
+
+---
+
+**Rubric for Prompt 8**
+
+*Question:* How does the Prisoner's Dilemma illustrate the challenges of cooperation in game theory?
+
+- **Explanation of the Prisoner's Dilemma (2 points):**
+  - **Scenario Description (1 point):** Briefly describes the classic setup.
+  - **Outcome Analysis (1 point):** Explains the possible choices and outcomes.
+- **Challenges of Cooperation (3 points):**
+  - **Individual Incentives (1 point):** Discusses why rational individuals may not cooperate.
+  - **Nash Equilibrium (1 point):** References the concept in context.
+  - **Real-world Applications (1 point):** Provides examples or implications.
+- **Clarity (1 point):**
+  - Presents information in a clear and understandable manner.
+
+**Total Points:** 6
+
+---
+
+**Rubric for Prompt 9**
+
+*Question:* A traveler walks one mile south, one mile east, and one mile north, ending up at the starting point. Where could the traveler be?
+
+- **Correct Answer (2 points):**
+  - **Primary Solution (1 point):** States the North Pole as a location.
+  - **Alternative Solutions (1 point):** Mentions circles near the South Pole where walking in this pattern is possible.
+- **Explanation (4 points):**
+  - **Path Explanation (2 points):** Describes how the movements result in returning to the starting point.
+  - **Geographical Reasoning (1 point):** Explains the uniqueness of the poles.
+  - **Mathematical Insight (1 point):** Provides insight into the geometry involved.
+
+**Total Points:** 6
+
+---
+
+**Rubric for Prompt 10**
+
+*Question:* If a function \( f(x) \) is continuous on the interval \([a, b]\) and differentiable on \((a, b)\), explain why Rolle's Theorem guarantees that there is at least one \( c \) in \((a, b)\) such that \( f '(c) = 0 \).
+
+- **Statement of Rolle's Theorem (2 points):**
+  - **Conditions (1 point):** Lists the conditions required for Rolle's Theorem.
+  - **Conclusion (1 point):** States the theorem's conclusion.
+- **Application (2 points):**
+  - **Verification (1 point):** Confirms that \( f(a) = f(b) \).
+  - **Existence of \( c \) (1 point):** Explains how the theorem applies to the given function.
+- **Explanation Clarity (2 points):**
+  - **Logical Flow (1 point):** Presents reasoning in a logical sequence.
+  - **Terminology (1 point):** Uses correct mathematical terms.
+
+**Total Points:** 6
+
+---
+
+**Rubric for Prompt 11**
+
+*Question:* A company produces widgets at a cost of \$10 each and sells them for \$15 each. If fixed costs are \$1000 per month, how many widgets must the company sell to break even?
+
+- **Correct Answer (2 points):**
+  - States the correct break-even point (**200 widgets**).
+- **Calculations (3 points):**
+  - **Contribution Margin Calculation (1 point):** Calculates per-unit profit (\$5).
+  - **Break-even Formula (1 point):** Uses \( \text{Fixed Costs} / \text{Contribution Margin} \).
+  - **Solving for Quantity (1 point):** Correctly computes the required units.
+- **Explanation (1 point):**
+  - Explains each step clearly.
+
+**Total Points:** 6
+
+---
+
+**Rubric for Prompt 12**
+
+*Question:* If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?
+
+- **Correct Answer (2 points):**
+  - States the correct time (**5 minutes**).
+- **Reasoning (3 points):**
+  - **Per Machine Rate (1 point):** Explains that one machine makes one widget in 5 minutes.
+  - **Scaling Up (1 point):** Shows that with 100 machines, 100 widgets are made in the same time.
+  - **Avoiding Common Mistakes (1 point):** Recognizes it's not proportional to the number of widgets.
+- **Clarity (1 point):**
+  - Presents explanation logically.
+
+**Total Points:** 6
+
+---
+
+**Rubric for Prompt 13**
+
+*Question:* A ladder is leaning against a wall. The top of the ladder touches the wall at a height of 8 meters, and the base of the ladder is 6 meters from the wall. How long is the ladder?
+
+- **Correct Answer (2 points):**
+  - Provides the correct length (**10 meters**).
+- **Use of Pythagoras' Theorem (2 points):**
+  - **Formula Application (1 point):** Recognizes \( a^2 + b^2 = c^2 \).
+  - **Calculation (1 point):** Correctly calculates \( \sqrt{6^2 + 8^2} \).
+- **Explanation (2 points):**
+  - **Step-by-Step Solution (1 point):** Shows all calculation steps.
+  - **Clarity (1 point):** Explanation is clear and precise.
+
+**Total Points:** 6
+
+---
+
+**Rubric for Prompt 14**
+
+*Question:* Describe the ethical considerations involved in implementing AI decision-making systems in healthcare.
+
+- **Identification of Ethical Issues (3 points):**
+  - **Data Privacy (1 point):** Addresses patient confidentiality concerns.
+  - **Bias and Fairness (1 point):** Discusses potential biases in AI algorithms.
+  - **Accountability (1 point):** Considers responsibility for AI decisions.
+- **Impact Analysis (2 points):**
+  - **Patient Outcomes (1 point):** Explores implications for patient care.
+  - **Informed Consent (1 point):** Highlights need for transparency with patients.
+- **Clarity and Depth (1 point):**
+  - Presents a thoughtful and comprehensive discussion.
+
+**Total Points:** 6
+
+---
+
+**Rubric for Prompt 15**
+
+*Question:* If a population of bacteria doubles every hour and there are 1,000 bacteria at noon, when will the population reach 8,000?
+
+- **Correct Answer (2 points):**
+  - States the correct time (**3 PM**).
+- **Calculations (3 points):**
+  - **Understanding Doubling (1 point):** Recognizes that population doubles each hour.
+  - **Number of Doublings (1 point):** Determines that it takes 3 doublings to reach 8,000.
+  - **Time Calculation (1 point):** Calculates the time by adding hours.
+- **Explanation (1 point):**
+  - Presents logic clearly.
+
+**Total Points:** 6
+
+---
+
+**Rubric for Prompt 16**
+
+*Question:* Given the sequence of operations: start with number 2, square it, add 3, take the square root, then subtract 1. What is the final result?
+
+- **Correct Answer (2 points):**
+  - Provides the correct result (**2**).
+- **Step-by-Step Calculations (4 points):**
+  - **Squaring (1 point):** Calculates \( 2^2 = 4 \).
+  - **Adding 3 (1 point):** Computes \( 4 + 3 = 7 \).
+  - **Square Root (1 point):** Calculates \( \sqrt{7} \).
+  - **Subtracting 1 (1 point):** Computes final result \( \sqrt{7} - 1 \) and simplifies if possible.
+- **Note:** Since \( \sqrt{7} - 1 \) is approximately 1.6458, the correct final result should be given accordingly. Adjust points if necessary.
+
+**Total Points:** 6
+
+---
+
+**Rubric for Prompt 17**
+
+*Question:* How would you design an algorithm to find the shortest path between two points in a weighted graph?
+
+- **Understanding of Algorithms (2 points):**
+  - **Dijkstra's Algorithm (1 point):** Mentions and explains its use for non-negative weights.
+  - **Alternative Algorithms (1 point):** References algorithms like A* or Bellman-Ford if applicable.
+- **Algorithm Steps (3 points):**
+  - **Initialization (1 point):** Describes setting initial distances.
+  - **Relaxation Process (1 point):** Explains updating distances.
+  - **Termination Condition (1 point):** Details how the algorithm concludes.
+- **Clarity (1 point):**
+  - Presents information coherently.
+
+**Total Points:** 6
+
+---
+
+**Rubric for Prompt 18**
+
+*Question:* If you flip a fair coin three times, what is the probability of getting exactly two heads?
+
+- **Correct Answer (2 points):**
+  - Provides the correct probability (**3/8** or 0.375).
+- **Calculations (3 points):**
+  - **Total Possible Outcomes (1 point):** Recognizes there are \( 2^3 = 8 \) outcomes.
+  - **Successful Outcomes (1 point):** Identifies the 3 combinations with two heads.
+  - **Probability Calculation (1 point):** Calculates \( 3/8 \).
+- **Explanation (1 point):**
+  - Explains reasoning clearly.
+
+**Total Points:** 6
+
+---
+
+**Rubric for Prompt 19**
+
+*Question:* Explain the concept of opportunity cost with an example.
+
+- **Definition (2 points):**
+  - Clearly defines opportunity cost as the value of the next best alternative forgone.
+- **Example (3 points):**
+  - **Relevance (1 point):** Provides a practical and relatable example.
+  - **Explanation (1 point):** Explains how the example illustrates opportunity cost.
+  - **Depth (1 point):** Discusses implications or consequences.
+- **Clarity (1 point):**
+  - The explanation is clear and understandable.
+
+**Total Points:** 6
+
+---
+
+**Rubric for Prompt 20**
+
+*Question:* A car travels 60 miles at an average speed of 30 mph and then another 60 miles at an average speed of 60 mph. What is the car's average speed for the entire trip?
+
+- **Correct Answer (2 points):**
+  - Calculates the correct average speed (**40 mph**).
+- **Calculations (3 points):**
+  - **Time for Each Leg (1 point):** Computes time for each segment (2 hours and 1 hour).
+  - **Total Distance and Time (1 point):** Adds up total distance and total time.
+  - **Average Speed Formula (1 point):** Uses \( \text{Average Speed} = \frac{\text{Total Distance}}{\text{Total Time}} \).
+- **Explanation (1 point):**
+  - Presents calculations clearly.
+
+**Total Points:** 6
+
+---
+
+**Rubric for Prompt 21**
+
+*Question:* If every person in a room shakes hands with every other person exactly once, and there are 66 handshakes in total, how many people are in the room?
+
+- **Correct Answer (2 points):**
+  - Determines the correct number of people (**12 people**).
+- **Formula Application (2 points):**
+  - **Handshake Formula (1 point):** Uses \( \frac{n(n - 1)}{2} = 66 \).
+  - **Solving for \( n \) (1 point):** Correctly solves the equation.
+- **Explanation (2 points):**
+  - **Logical Steps (1 point):** Explains each step in solving.
+  - **Verification (1 point):** Checks the solution for accuracy.
+
+**Total Points:** 6
+
+---
+
+**Rubric for Prompt 22**
+
+*Question:* Explain how the concept of diminishing marginal utility applies to consumer behavior.
+
+- **Definition (2 points):**
+  - Clearly defines diminishing marginal utility.
+- **Application to Consumer Behavior (3 points):**
+  - **First Units (1 point):** Explains higher utility from initial consumption.
+  - **Subsequent Units (1 point):** Describes decreasing satisfaction.
+  - **Impact on Demand (1 point):** Connects to consumer purchasing decisions.
+- **Clarity (1 point):**
+  - Presents ideas clearly.
+
+**Total Points:** 6
+
+---
+
+**Rubric for Prompt 23**
+
+*Question:* A rectangle has a perimeter of 50 units and an area of 150 square units. What are the dimensions of the rectangle?
+
+- **Correct Answer (2 points):**
+  - Provides the correct dimensions (**15 units and 10 units**).
+- **Equation Setup (2 points):**
+  - **Perimeter Equation (1 point):** Sets up \( 2(l + w) = 50 \).
+  - **Area Equation (1 point):** Sets up \( l \times w = 150 \).
+- **Solution Process (2 points):**
+  - **Solving Equations (1 point):** Uses substitution or elimination.
+  - **Calculation Accuracy (1 point):** Performs calculations correctly.
+
+**Total Points:** 6
+
+---
+
+**Rubric for Prompt 24**
+
+*Question:* If the probability of rain on any given day is 30%, what is the probability that it will rain at least once over the next three days?
+
+- **Correct Answer (2 points):**
+  - Provides the correct probability (**65.7%** or approx **65.73%**).
+- **Calculations (3 points):**
+  - **Probability of No Rain (1 point):** Calculates \( 0.7^3 \).
+  - **Probability of At Least Once (1 point):** Computes \( 1 - 0.343 = 0.657 \).
+  - **Understanding Independence (1 point):** Recognizes daily events are independent.
+- **Explanation (1 point):**
+  - Explains reasoning clearly.
+
+**Total Points:** 6
+
+---
+
+**Rubric for Prompt 25**
+
+*Question:* Describe the differences between classical conditioning and operant conditioning in psychology.
+
+- **Definitions (2 points):**
+  - **Classical Conditioning (1 point):** Defines with an example (e.g., Pavlov's dogs).
+  - **Operant Conditioning (1 point):** Defines with an example (e.g., Skinner box).
+- **Key Differences (3 points):**
+  - **Association Type (1 point):** Explains involuntary vs. voluntary behaviors.
+  - **Mechanism (1 point):** Discusses reinforcement vs. stimulus pairing.
+  - **Applications (1 point):** Provides contexts where each is applicable.
+- **Clarity (1 point):**
+  - Presents differences clearly and coherently.
+
+**Total Points:** 6
+
+---
+
+**Rubric for Prompt 26**
+
+*Question:* You are given three jars labeled incorrectly: one contains apples, one contains oranges, and one contains a mix of apples and oranges. You may pick one fruit from one jar. How can you determine the correct labels?
+
+- **Correct Strategy (4 points):**
+  - **Choosing from Mixed Label (1 point):** Selects a fruit from the jar labeled 'Mixed'.
+  - **Relabeling Logic (3 points):**
+    - Explains that since all labels are incorrect, the jar must contain either all apples or all oranges.
+    - Uses the picked fruit to correctly relabel this jar.
+    - Deduces the correct labels for the remaining jars based on process of elimination.
+- **Explanation (2 points):**
+  - Presents reasoning clearly and logically.
+
+**Total Points:** 6
+
+---
+
+**Rubric for Prompt 27**
+
+*Question:* If you invest \$1,000 at an annual interest rate of 5% compounded annually, how much will you have after 10 years?
+
+- **Correct Answer (2 points):**
+  - Calculates the final amount (**\$1,628.89**).
+- **Formula Application (2 points):**
+  - **Compound Interest Formula (1 point):** Uses \( A = P(1 + r)^n \).
+  - **Variables Identification (1 point):** Correctly assigns \( P = \$1000 \), \( r = 0.05 \), \( n = 10 \).
+- **Calculations (2 points):**
+  - **Step-by-Step Calculation (1 point):** Shows intermediate calculations.
+  - **Accuracy (1 point):** Performs correct computation.
+
+**Total Points:** 6
+
+---
+
+**Rubric for Prompt 28**
+
+*Question:* Explain the impact of the Treaty of Versailles on the political climate in Germany leading up to World War II.
+
+- **Key Points (3 points):**
+  - **War Guilt Clause (1 point):** Discusses Article 231 and its effect.
+  - **Reparations (1 point):** Addresses the economic burden on Germany.
+  - **Territorial Losses (1 point):** Mentions loss of land and colonies.
+- **Consequences (2 points):**
+  - **Rise of Extremism (1 point):** Explains how resentment fueled extremist parties.
+  - **Undermining Democracy (1 point):** Discusses the weakening of the Weimar Republic.
+- **Clarity (1 point):**
+  - Presents information logically.
+
+**Total Points:** 6
+
+---
+
+**Rubric for Prompt 29**
+
+*Question:* A circle is inscribed in a square. What is the ratio of the area of the circle to the area of the square?
+
+- **Correct Answer (2 points):**
+  - Provides the correct ratio (**\( \pi / 4 \)**).
+- **Derivation (3 points):**
+  - **Area of Square (1 point):** Expresses area as \( (2r)^2 = 4r^2 \).
+  - **Area of Circle (1 point):** Expresses area as \( \pi r^2 \).
+  - **Ratio Calculation (1 point):** Divides \( \pi r^2 / 4r^2 \).
+- **Explanation (1 point):**
+  - Explains reasoning clearly.
+
+**Total Points:** 6
+
+---
+
+**Rubric for Prompt 30**
+
+*Question:* If two planes depart from the same airport, one flying due north at 500 mph and the other flying due east at 600 mph, how far apart will they be after two hours?
+
+- **Correct Answer (2 points):**
+  - Calculates the correct distance (**approximately 1,562 miles**).
+- **Calculations (3 points):**
+  - **Distance Traveled North (1 point):** Computes \( 500 \text{ mph} \times 2 \text{ h} = 1000 \text{ miles} \).
+  - **Distance Traveled East (1 point):** Computes \( 600 \text{ mph} \times 2 \text{ h} = 1200 \text{ miles} \).
+  - **Using the Pythagorean Theorem (1 point):** Calculates \( \sqrt{1000^2 + 1200^2} \).
+- **Explanation (1 point):**
+  - Presents reasoning clearly.
+
+**Total Points:** 6
+
+---
+
+6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6

@@ -1,0 +1,253 @@
+**Rubric for Evaluating Model Responses to Prompts**
+
+---
+
+**Prompt 1:**
+*Question:* If all bloops are razzles and all razzles are doops, are all bloops definitely doops?
+
+- **Correct Answer (1 point):** Yes, all bloops are definitely doops.
+- **Explanation (1 point):** Provides valid logical reasoning based on transitive relation.
+
+*Maximum Points:* 2
+
+---
+
+**Prompt 2:**
+*Question:* Suppose seven people are standing in a circle. Each person shakes hands with every other person exactly once. How many handshakes occur in total?
+
+- **Correct Answer (1 point):** 21 handshakes.
+- **Calculation/Explanation (1 point):** Shows calculation using the formula n(n − 1)/2 or logical reasoning.
+
+*Maximum Points:* 2
+
+---
+
+**Prompt 3:**
+*Question:* A farmer has 17 sheep, all but 9 die. How many are left?
+
+- **Correct Answer (1 point):** 9 sheep are left.
+
+*Maximum Points:* 1
+
+---
+
+**Prompt 4:**
+*Question:* If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?
+
+- **Correct Answer (1 point):** 5 minutes.
+- **Explanation (1 point):** Explains that each machine makes one widget in 5 minutes, so time remains constant.
+
+*Maximum Points:* 2
+
+---
+
+**Prompt 5:**
+*Question:* Solve for x: 2x + 5 = 17.
+
+- **Correct Answer (1 point):** x = 6.
+- **Calculation Steps (1 point):** Shows steps: subtract 5 from both sides, divide by 2.
+
+*Maximum Points:* 2
+
+---
+
+**Prompt 6:**
+*Question:* If a car travels at a constant speed of 60 miles per hour, how long will it take to travel 180 miles?
+
+- **Correct Answer (1 point):** 3 hours.
+- **Calculation/Explanation (1 point):** Uses time = distance ÷ speed.
+
+*Maximum Points:* 2
+
+---
+
+**Prompt 7:**
+*Question:* What is the next number in the sequence: 2, 3, 5, 7, 11, ?
+
+- **Correct Answer (1 point):** 13.
+- **Explanation (1 point):** Identifies the sequence as prime numbers.
+
+*Maximum Points:* 2
+
+---
+
+**Prompt 8:**
+*Question:* A rectangle has a length twice its width. If the perimeter is 36 units, what is the area of the rectangle?
+
+- **Correct Answer (1 point):** 72 square units.
+- **Calculation Steps (2 points):** Finds width and length using perimeter formula, then calculates area.
+
+*Maximum Points:* 3
+
+---
+
+**Prompt 9:**
+*Question:* If a rooster lays an egg on the peak of a barn roof, which side will the egg fall?
+
+- **Correct Answer (1 point):** Roosters do not lay eggs.
+
+*Maximum Points:* 1
+
+---
+
+**Prompt 10:**
+*Question:* You have a 3-gallon jug and a 5-gallon jug. How can you measure exactly 4 gallons of water?
+
+- **Solution Steps (3 points):** Provides correct sequence of actions to measure 4 gallons.
+
+*Maximum Points:* 3
+
+---
+
+**Prompt 11:**
+*Question:* Before Mount Everest was discovered, what was the highest mountain on Earth?
+
+- **Correct Answer (1 point):** Mount Everest.
+- **Explanation (1 point):** Explains it was still the tallest before discovery.
+
+*Maximum Points:* 2
+
+---
+
+**Prompt 12:**
+*Question:* What is unusual about the following sentence: "The quick brown fox jumps over the lazy dog."
+
+- **Correct Answer (1 point):** It uses every letter of the English alphabet (pangram).
+
+*Maximum Points:* 1
+
+---
+
+**Prompt 13:**
+*Question:* If you fold a square piece of paper in half diagonally, what shape will you get?
+
+- **Correct Answer (1 point):** A triangle (isosceles right triangle).
+
+*Maximum Points:* 1
+
+---
+
+**Prompt 14:**
+*Question:* Imagine a cube that is painted red on all sides. If you cut the cube into 27 smaller equal cubes, how many of the smaller cubes will have no red paint on any side?
+
+- **Correct Answer (1 point):** 1 cube.
+- **Explanation (1 point):** Only the center cube has no painted sides.
+
+*Maximum Points:* 2
+
+---
+
+**Prompt 15:**
+*Question:* A is to the north of B. C is to the east of B. In which direction is A from C?
+
+- **Correct Answer (1 point):** Northwest.
+- **Explanation (1 point):** Describes relative positions or uses a compass diagram.
+
+*Maximum Points:* 2
+
+---
+
+**Prompt 16:**
+*Question:* If John is older than Mary and Mary is older than Sam, who is the oldest?
+
+- **Correct Answer (1 point):** John.
+
+*Maximum Points:* 1
+
+---
+
+**Prompt 17:**
+*Question:* All swans are white. Is the following statement true or false: If a bird is black, then it is not a swan.
+
+- **Correct Answer (1 point):** True.
+- **Explanation (1 point):** Uses logical deduction based on the premise.
+
+*Maximum Points:* 2
+
+---
+
+**Prompt 18:**
+*Question:* Hand is to palm as foot is to what?
+
+- **Correct Answer (1 point):** Sole.
+
+*Maximum Points:* 1
+
+---
+
+**Prompt 19:**
+*Question:* Sword is to warrior as pen is to what?
+
+- **Correct Answer (1 point):** Writer (also accept author, scribe, poet).
+
+*Maximum Points:* 1
+
+---
+
+**Prompt 20:**
+*Question:* If today is Monday, what day will it be 45 days from now?
+
+- **Correct Answer (1 point):** Thursday.
+- **Calculation/Explanation (1 point):** Shows that 45 mod 7 equals 3; adds 3 days to Monday.
+
+*Maximum Points:* 2
+
+---
+
+**Prompt 21:**
+*Question:* Sarah was 7 years old in 2010. In what year was she born?
+
+- **Correct Answer (1 point):** 2003.
+- **Calculation (optional):** 2010 − 7 = 2003.
+
+*Maximum Points:* 1
+
+---
+
+**Prompt 22:**
+*Question:* If the lights go out when the main switch is off, and the main switch is off, what can you conclude about the lights?
+
+- **Correct Answer (1 point):** The lights are off.
+
+*Maximum Points:* 1
+
+---
+
+**Prompt 23:**
+*Question:* Tom's mother has three children. The first child is named April, the second is May. What is the third child's name?
+
+- **Correct Answer (1 point):** Tom.
+
+*Maximum Points:* 1
+
+---
+
+**Prompt 24:**
+*Question:* Emily is taller than Sarah, and Sarah is taller than John. Who is the tallest?
+
+- **Correct Answer (1 point):** Emily.
+
+*Maximum Points:* 1
+
+---
+
+**Prompt 25:**
+*Question:* How many times can you subtract 5 from 25?
+
+- **Correct Answer (1 point):** Once.
+- **Explanation (optional):** After subtracting 5 once, the number changes.
+
+*Maximum Points:* 1
+
+---
+
+**Prompt 26:**
+*Question:* You are in a room with no windows or doors, just a table and a mirror. How do you get out?
+
+- **Creative Solution (2 points):** Provides the riddle's answer involving the mirror and table to create a "hole" and escape.
+
+*Maximum Points:* 2
+
+---
+
+2,2,1,2,2,2,2,3,1,3,2,1,1,2,2,1,2,1,1,2,1,1,1,1,1,2

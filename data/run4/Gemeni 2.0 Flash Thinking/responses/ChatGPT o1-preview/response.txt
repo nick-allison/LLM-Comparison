@@ -1,0 +1,141 @@
+It will take 4 hours for the second train to catch up.
+
+Box B contains the prize.
+
+Yes, all Bloops are necessarily Bleeps because if all Bloops are a subset of Blips, and all Blips are a subset of Bleeps, then Bloops must also be a subset of Bleeps. This is deductive reasoning, specifically a form of syllogism called a hypothetical syllogism or chain argument.
+
+Not necessarily. Sarah is taller than Emily, and Emily is taller than Laura. However, Rachel is taller than Emily but we don't know Rachel's height relative to Sarah. Rachel could be taller or shorter than Sarah.
+
+33
+
+A is a liar and B is a truth-teller.
+
+1. Fill the 5-liter jug completely.
+2. Pour water from the 5-liter jug into the 3-liter jug until the 3-liter jug is full. This leaves 2 liters in the 5-liter jug.
+3. Empty the 3-liter jug.
+4. Pour the 2 liters from the 5-liter jug into the 3-liter jug.
+5. Fill the 5-liter jug completely again.
+6. Carefully pour water from the 5-liter jug into the 3-liter jug (which already has 2 liters) until the 3-liter jug is full. This will use 1 liter from the 5-liter jug.
+7. There will be exactly 4 liters remaining in the 5-liter jug.
+
+1. Farmer takes the goat across.
+2. Farmer returns alone.
+3. Farmer takes the wolf across.
+4. Farmer brings the goat back.
+5. Farmer takes the cabbage across.
+6. Farmer returns alone.
+7. Farmer takes the goat across again.
+
+Today is Friday.
+
+His son.
+
+1. Flip switch 1 on and leave it on for a few minutes.
+2. Flip switch 1 off and switch 2 on.
+3. Go into the room.
+If the light is on, switch 2 controls it. If the light is off but the bulb is warm, switch 1 controls it. If the light is off and the bulb is cold, switch 3 controls it.
+
+Let R = It rains, W = The ground is wet.
+Premises: R → W, W
+Conclusion: R
+This argument is invalid. It is an example of the fallacy of affirming the consequent. The ground could be wet for other reasons besides rain.
+
+58%
+
+(4/52) * (3/51) = 12/2652 = 1/221
+
+12
+
+No, you should not switch.  Initially, you have a 50% chance of picking the envelope with more money. Seeing the amount in your chosen envelope doesn't change the initial probabilities or the fact that the other envelope either has twice as much or half as much. Switching does not improve your odds beyond the initial 50/50 chance based solely on the information given.
+
+The Monty Hall problem is a probability puzzle based on a game show scenario. You choose one of three doors, behind one is a car, and behind the other two are goats. After you choose, the host, who knows where the car is, opens one of the doors you didn't choose, revealing a goat. He then asks if you want to switch to the other unopened door.
+
+Switching doors doubles your probability of winning the car. Initially, you have a 1/3 chance of picking the door with the car. This means there is a 2/3 chance the car is behind one of the other two doors. When the host opens a door to reveal a goat, he is giving you information. He is not changing the initial 1/3 probability of your chosen door having the car, but he is concentrating the 2/3 probability onto the remaining unopened door. By switching, you are taking advantage of that initial 2/3 probability.
+
+The numbers are 3 and 7.
+
+The angle between the ladder and the ground will decrease over time. As the base of the ladder moves further from the wall, while the top of the ladder slides down the wall, the angle between the ladder and the ground gets smaller.
+
+As the number of people working on a fixed task increases, the time it takes to complete the task decreases, assuming the task can be divided and parallelized effectively.
+
+21
+
+They will meet 5 times.
+
+Add a hole to it.
+
+1. Weighing 1: Divide the balls into three groups: 3, 3, and 2. Weigh the two groups of 3 against each other.
+    * If they balance, the heavier ball is in the group of 2. Proceed to Weighing 2 with the 2 balls.
+    * If they don't balance, the heavier ball is in the heavier group of 3. Proceed to Weighing 2 with the heavier group of 3.
+2. Weighing 2 (if needed):
+    * If the heavier ball is in the group of 2, weigh the two balls against each other. The heavier one is the heavier ball.
+    * If the heavier ball is in the group of 3, take any two balls from the heavier group and weigh them against each other.
+        * If they balance, the ball not weighed is the heavier ball.
+        * If they don't balance, the heavier one is the heavier ball.
+
+The statement "This statement is false" is a paradox because if the statement is true, then it must be false (as it claims). But if the statement is false, then it must be true (as it is not false). This creates a logical contradiction, meaning the statement can be neither true nor false within classical logic.
+
+f(x) = |x| at x = 0 is continuous but not differentiable.
+
+3/8
+
+Father is 30, son is 10.
+
+No, it is not possible for two consecutive integers to both be prime numbers, except for 2 and 3.  This is because all integers greater than 2 are either even or odd. If we take any two consecutive integers greater than 2, one of them must be even, and the only even prime number is 2. Therefore, for any pair of consecutive integers greater than 2, at least one will be even and greater than 2, thus not prime.
+
+1. Light rope 1 at both ends and rope 2 at one end simultaneously.
+2. When rope 1 burns completely (in 30 minutes, as it's burning from both ends), light the other end of rope 2.
+3. Rope 2 will now burn from both ends and will take 15 minutes to burn completely (half of its original 30 minutes burn time).
+4. Total time elapsed is 30 + 15 = 45 minutes.
+
+Friday
+
+Correlation means two variables are related or tend to move together. Causation means one variable directly causes a change in another. Correlation does not imply causation because a third, unobserved variable (a confounding variable) could be influencing both variables, creating a correlation without a direct causal link.
+
+Example: Ice cream sales and crime rates are positively correlated. However, ice cream sales do not cause crime, nor does crime cause ice cream sales. Both are likely influenced by a third variable, temperature. Warmer temperatures lead to increased ice cream sales and also tend to be associated with higher crime rates.
+
+Yes, the conclusion "Some musicians are eccentric" is valid.
+Premise 1: All artists are eccentric (∀x)(Artist(x) → Eccentric(x))
+Premise 2: Some musicians are artists (∃x)(Musician(x) ∧ Artist(x))
+Conclusion: Some musicians are eccentric (∃x)(Musician(x) ∧ Eccentric(x))
+
+This is a valid syllogism based on existential instantiation and universal instantiation. Since some musicians are artists, and all artists are eccentric, then it logically follows that some musicians must be eccentric.
+
+The ball costs $0.05 (5 cents).
+
+23
+
+The question is philosophical and depends on the definition of "sound."
+* **Physics perspective:** No, sound as vibrations in a medium (like air) requires a receiver to convert those vibrations into what we perceive as sound. If there's no ear or recording device, there's no "sound" in this sense.
+* **Philosophical perspective:** Yes, the tree falling creates vibrations in the air regardless of whether someone is there to hear them. Sound as a physical phenomenon (pressure waves) exists independently of perception.
+
+This is known as the paradox of omnipotence.
+* **If yes:** If an omnipotent being *can* create such a stone, then there exists something they cannot lift, thus contradicting their omnipotence (ability to lift anything).
+* **If no:** If an omnipotent being *cannot* create such a stone, then there is something they cannot do (create a stone they cannot lift), thus also contradicting their omnipotence (ability to do anything).
+
+This paradox highlights potential logical inconsistencies within the concept of omnipotence itself, suggesting limitations in defining absolute power within a logical framework.
+
+The Prisoner's Dilemma is a classic example in game theory that demonstrates why two purely "rational" individuals might not cooperate, even if it appears that it is in their best interests to do so.
+
+Two suspects are arrested for a crime and placed in separate cells. They cannot communicate with each other. Each is given the choice to either betray the other (defect) or cooperate with the other (remain silent). The possible outcomes are:
+
+* **Both cooperate (remain silent):** Both receive a light sentence (e.g., 1 year each).
+* **One defects, the other cooperates:** The defector goes free, and the cooperator receives a heavy sentence (e.g., 5 years).
+* **Both defect (betray each other):** Both receive a moderate sentence (e.g., 3 years each).
+
+From an individual perspective, regardless of what the other prisoner does, it's always better to defect. If the other prisoner cooperates, defecting leads to freedom instead of a light sentence. If the other prisoner defects, defecting leads to a moderate sentence instead of a heavy sentence.  However, if both prisoners follow this "rational" logic and defect, they both end up with a worse outcome (moderate sentence) than if they had both cooperated (light sentence).
+
+The Prisoner's Dilemma illustrates the conflict between individual rationality and collective rationality, and it has broad applications in fields like economics, political science, and evolutionary biology to understand situations where cooperation is beneficial but difficult to achieve.
+
+W. The pattern is the position in the alphabet, incremented by increasing amounts:
+D (4th) + 2 = F (6th)
+F (6th) + 3 = I (9th)
+I (9th) + 4 = M (13th)
+M (13th) + 5 = R (18th)
+R (18th) + 6 = W (24th)
+
+Three crease lines are visible. They intersect in the center of the square, with two creases running along the diagonals and one crease running horizontally (or vertically depending on folding).
+
+Ask either guard: "If I were to ask the other guard which door leads to freedom, what would he say?" Then choose the opposite door of what the guard indicates.
+
+It will never reach the end. The object is moving at 0.5 m/s against the belt moving at 1 m/s.  Therefore, relative to the ground, the object is moving backwards at -0.5 m/s.  It will move further away from the end, not reach it.

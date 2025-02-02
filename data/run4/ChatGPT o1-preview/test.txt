@@ -1,0 +1,90 @@
+A train leaves Station A heading east at 60 km/h. Two hours later, another train leaves Station A heading east at 90 km/h. How long will it take for the second train to catch up to the first train?
+
+In a room, there are five boxes labeled A, B, C, D, and E. Only one of the boxes contains a prize. You are told that:
+- The prize is not in box A.
+- The prize is not in box C.
+- The prize is in box D or E.
+However, exactly one of these statements is false. Which box contains the prize?
+
+If all Bloops are Blips, and all Blips are Bleeps, are all Bloops necessarily Bleeps? Explain your reasoning.
+
+Sarah is taller than Emily. Emily is shorter than Rachel but taller than Laura. Is Sarah taller than Rachel?
+
+Calculate the next number in the sequence: 2, 3, 5, 9, 17, __
+
+An island has inhabitants who either always tell the truth or always lie. You meet two inhabitants, A and B. A says, "We are both liars." What type of inhabitants are A and B?
+
+Explain how you can measure exactly 4 liters of water using only a 3-liter and a 5-liter jug.
+
+A farmer has to transport a wolf, a goat, and a cabbage across a river. His boat can only carry himself and one item. If left alone, the wolf will eat the goat, and the goat will eat the cabbage. How does the farmer get everything across safely?
+
+If the day after tomorrow is four days before Monday, what day is it today?
+
+A man looks at a portrait and says, "Brothers and sisters I have none, but that man's father is my father's son." Who is in the portrait?
+
+You have three switches outside a windowless room. One of them controls a light bulb inside the room. You can only enter the room once. How can you determine which switch controls the light bulb?
+
+Translate the following argument into logical notation and determine its validity:
+- If it rains, the ground gets wet.
+- The ground is wet.
+- Therefore, it rained.
+
+A company's workforce is 40% female. 70% of the female employees and 50% of the male employees received bonuses. What percentage of the total workforce received bonuses?
+
+In a deck of cards, what is the probability of drawing two aces in a row without replacement?
+
+A cube has all sides painted red. It is then cut into 27 smaller, equal-sized cubes. How many of these smaller cubes have exactly one face painted red?
+
+If I have two envelopes, one containing twice as much money as the other, and I choose one at random, should I switch envelopes after seeing the amount in mine? Explain your reasoning.
+
+Explain the Monty Hall problem and why switching doors increases your chances of winning.
+
+Given that the sum of two numbers is 10 and their product is 21, find the numbers.
+
+A ladder is leaning against a wall. Every hour, the bottom of the ladder is pulled out 1 meter from the wall. Describe how the angle between the ladder and the ground changes over time.
+
+Describe a real-world scenario where increasing one variable results in the decrease of another, illustrating inverse proportionality.
+
+How many times does the digit "1" appear when you write the numbers from 1 to 100?
+
+Two cyclists start from the same point but in opposite directions around a circular track. One cycles at 10 km/h and the other at 15 km/h. If the track is 5 km long, how many times will they meet after 2 hours?
+
+A barrel of water weighs 60 pounds. What must you add to it to make it weigh 40 pounds?
+
+Suppose you are given 8 identical-looking balls, but one is slightly heavier. Using a balance scale, how can you determine the heavier ball in the fewest weighings?
+
+Explain why the statement "This statement is false" creates a paradox.
+
+Provide a counterexample to the statement: "All functions that are continuous are differentiable."
+
+If you flip a fair coin three times, what is the probability of getting exactly two heads?
+
+A father is three times as old as his son. Five years ago, he was four times as old. How old are they now?
+
+Is it possible for two consecutive integers to both be prime numbers? Explain why or why not.
+
+You have two ropes that each take exactly one hour to burn, but they burn at non-uniform rates. How can you measure exactly 45 minutes using these ropes?
+
+If today is Wednesday, what day will it be 100 days from now?
+
+Explain the difference between correlation and causation, and provide an example illustrating why correlation does not imply causation.
+
+Given the premises "All artists are eccentric" and "Some musicians are artists," can we conclude that "Some musicians are eccentric"? Explain your reasoning.
+
+A bat and a ball cost $1.10 in total. The bat costs $1 more than the ball. How much does the ball cost?
+
+How many people are needed in a room to have a greater than 50% chance that at least two people share a birthday?
+
+If a tree falls in a forest and no one is around to hear it, does it make a sound? Discuss from a philosophical standpoint.
+
+Can an omnipotent being create a stone so heavy that they cannot lift it? Discuss the logical implications.
+
+Explain the Prisoner's Dilemma and its significance in game theory.
+
+Given the series of letters: D, F, I, M, R, __. What is the next letter, and explain the pattern.
+
+A square piece of paper is folded in half twice and then unfolded. How many crease lines are visible, and how do they intersect?
+
+You are in a room with two doors: one leads to freedom, and the other leads to death. Two guards know which door is which; one always tells the truth, and the other always lies. You can ask one guard one question. What do you ask to choose the door to freedom?
+
+A conveyor belt moves at 1 meter per second. You place an object on it that needs to travel 100 meters. If the object is moving in the opposite direction at 0.5 meters per second relative to the belt, how long will it take to reach the end?

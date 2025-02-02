@@ -1,0 +1,36 @@
+All squares are rectangles. All rectangles are quadrilaterals. Is it true that all squares are quadrilaterals? Explain your reasoning.
+If P implies Q, and Q implies R, does P imply R? Explain why or why not.
+Premise 1: Every bird can fly. Premise 2: Penguins are birds. Conclusion: Penguins can fly. Is this conclusion logically valid? Explain.
+The grass is wet. What are the most likely explanations for this?
+The patient is presenting with a fever, cough, and fatigue. What are the possible diagnoses, and which is the most probable?
+The lights are on in the house, but the car is not in the driveway. What could be happening?
+If the Roman Empire had not fallen, how might the world be different today?
+What if gravity suddenly reversed for five minutes? Describe the likely consequences.
+Imagine you had the ability to teleport. How would your daily life change?
+A heart is to a body as a ______ is to a car.
+Explain the analogy between the internet and a library.
+Complete the analogy: Doctor : Patient :: Teacher : ______.
+Smoking is a known cause of lung cancer. Does this mean everyone who smokes will get lung cancer? Explain.
+Increased ice cream sales are correlated with increased crime rates. Does this mean ice cream consumption causes crime?
+If a plant is not watered, it will die. What is the causal relationship here?
+Is it ever justifiable to lie? Under what circumstances?
+You witness someone shoplifting food because they are hungry. Is this morally wrong? Explain your reasoning.
+A self-driving car has to choose between hitting a group of pedestrians or swerving and hitting a single passenger in the car. What should it do?
+If you are facing North and turn right 90 degrees, then turn left 45 degrees, in which direction are you facing?
+Describe the spatial relationship between a clock's hour hand and minute hand at 3:15.
+A cube is painted red on all sides. If it is cut into 27 smaller cubes, how many of the smaller cubes will have exactly two red faces?
+Event A happened before Event B. Event C happened after Event B. Order events A, B, and C chronologically.
+If a train leaves New York at 9:00 AM and arrives in Boston at 1:00 PM, and another train leaves Boston at 10:00 AM and arrives in New York at 2:00 PM, which train travels for a longer duration?
+Arrange the following historical events in chronological order: World War II, French Revolution, American Civil War.
+A farmer has chickens and cows. There are 20 heads and 56 legs. How many chickens and how many cows are there? Explain your steps.
+If you fold a piece of paper in half 50 times, approximately how thick will it be? Explain your reasoning.
+A man is twice as old as his son. Twenty years ago, he was four times as old as his son. How old are they now?
+Why is it generally better to wear a coat in winter than in summer?
+What is the purpose of traffic lights?
+If you drop a feather and a brick from the same height, which will hit the ground first? Explain your reasoning.
+John believes Mary is angry because she is frowning. However, Mary is frowning because she has a headache. Does John's belief about Mary's anger reflect Mary's actual mental state? Explain.
+Sarah sees Tom hide a cookie in a drawer. Then Tom leaves the room. While Tom is gone, Sarah moves the cookie to a different box. When Tom returns, where will Tom look for the cookie? Why?
+Imagine you are talking to someone who is colorblind. How would you describe the color red to them?
+You need to move a piano up a narrow staircase. Describe your plan.
+You are stranded on a deserted island with only a knife and a box of matches. How would you ensure your survival?
+You have a broken bicycle tire and need to get home, which is 10 miles away. What are your possible options and the pros and cons of each?

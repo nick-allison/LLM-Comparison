@@ -1,0 +1,30 @@
+If all bloops are razzles, and some razzles are tocks, is it necessarily true that some bloops are tocks?
+A farmer has chickens and cows. There are 20 heads and 56 legs in total. How many chickens and cows are there?
+In a race of 5 people, Alex finishes before Bob, Charlie finishes after David, and Eve finishes after Bob but before Charlie. Who came in last?
+A cube has a surface area of 54 square units. What is its volume?
+Explain how the introduction of a minimum wage could potentially lead to unemployment using economic theory.
+You have 8 identical-looking balls, but one is heavier. Using a balance scale, how can you find the heavier ball in just two weighings?
+If the sum of two numbers is 15 and their product is 56, what are the numbers?
+How does the Prisoner's Dilemma illustrate the challenges of cooperation in game theory?
+A traveler walks one mile south, one mile east, and one mile north, ending up at the starting point. Where could the traveler be?
+If a function f(x) is continuous on the interval [a, b] and differentiable on (a, b), explain why Rolle's Theorem guarantees that there is at least one c in (a, b) such that f '(c) = 0.
+A company produces widgets at a cost of $10 each and sells them for $15 each. If fixed costs are $1000 per month, how many widgets must the company sell to break even?
+If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?
+A ladder is leaning against a wall. The top of the ladder touches the wall at a height of 8 meters, and the base of the ladder is 6 meters from the wall. How long is the ladder?
+Describe the ethical considerations involved in implementing AI decision-making systems in healthcare.
+If a population of bacteria doubles every hour and there are 1,000 bacteria at noon, when will the population reach 8,000?
+Given the sequence of operations: start with number 2, square it, add 3, take the square root, then subtract 1. What is the final result?
+How would you design an algorithm to find the shortest path between two points in a weighted graph?
+If you flip a fair coin three times, what is the probability of getting exactly two heads?
+Explain the concept of opportunity cost with an example.
+A car travels 60 miles at an average speed of 30 mph and then another 60 miles at an average speed of 60 mph. What is the car's average speed for the entire trip?
+If every person in a room shakes hands with every other person exactly once, and there are 66 handshakes in total, how many people are in the room?
+Explain how the concept of diminishing marginal utility applies to consumer behavior.
+A rectangle has a perimeter of 50 units and an area of 150 square units. What are the dimensions of the rectangle?
+If the probability of rain on any given day is 30%, what is the probability that it will rain at least once over the next three days?
+Describe the differences between classical conditioning and operant conditioning in psychology.
+You are given three jars labeled incorrectly: one contains apples, one contains oranges, and one contains a mix of apples and oranges. You may pick one fruit from one jar. How can you determine the correct labels?
+If you invest $1,000 at an annual interest rate of 5% compounded annually, how much will you have after 10 years?
+Explain the impact of the Treaty of Versailles on the political climate in Germany leading up to World War II.
+A circle is inscribed in a square. What is the ratio of the area of the circle to the area of the square?
+If two planes depart from the same airport, one flying due north at 500 mph and the other flying due east at 600 mph, how far apart will they be after two hours?

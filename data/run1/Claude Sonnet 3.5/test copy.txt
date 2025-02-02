@@ -1,0 +1,36 @@
+All squares are rectangles. All rectangles are quadrilaterals. Is it valid to conclude that all squares are quadrilaterals? Explain your reasoning.
+If A implies B, and B implies C, and not C is true, what can you deduce about A?
+Premise 1: If it rains, the ground is wet. Premise 2: The ground is not wet. Conclusion: Therefore, it did not rain. Is this conclusion valid? Explain.
+The lights are on in the house, and the dog is barking. What is the most likely explanation?
+The patient presents with a fever, cough, and fatigue. List three possible diagnoses, ranked by likelihood.
+My car won't start. I hear a clicking sound when I turn the key. What is a plausible explanation?
+If the Roman Empire had not fallen, how might modern Europe be different?
+What would have happened if the South had won the American Civil War?
+Imagine you had chosen a different career path. How would your life be different today?
+Complete the analogy: Doctor is to Patient as Teacher is to _____. Explain your choice.
+How is a computer like the human brain? List three similarities and three differences.
+"The mind is like an iceberg, it floats with one-seventh of its bulk above water." Explain the meaning of this analogy.
+A study shows a correlation between ice cream sales and crime rates. Does this mean ice cream consumption causes crime? Explain your reasoning.
+What are the likely causes of climate change? List three factors.
+Explain the cause-and-effect relationship between deforestation and soil erosion.
+Is it ever justifiable to lie? Under what circumstances?
+Imagine a runaway trolley is about to hit five people. You can pull a lever to divert it onto a side track, where it will hit only one person. What is the morally right action? Explain your reasoning.
+Is it ethical to use AI to generate art? Discuss both sides of the argument.
+A cube is painted red on all sides and then cut into 27 smaller cubes. How many of these smaller cubes have exactly two red faces?
+Imagine you are facing north, then turn right, then turn left twice, then turn right again. Which direction are you facing now?
+Describe the spatial relationship between the Earth, the Sun, and the Moon during a solar eclipse.
+Event A happened before Event B. Event C happened after Event B. Which event happened first? Which event happened last?
+Arrange these historical events in chronological order: World War II, the French Revolution, the Renaissance, the invention of the printing press.
+If today is Wednesday, what day will it be in 10 days?
+Solve for x: 2x + 5 = 11
+What is the next number in the sequence: 2, 4, 8, 16, ...? Explain the pattern.
+If a train travels at 60 miles per hour, how far will it travel in 3 hours?
+Why should you not put metal in a microwave?
+What is the purpose of a refrigerator?
+If you are thirsty, what should you do?
+You need to plan a surprise birthday party for your friend. List the steps you would take.
+Describe a strategy to win a game of tic-tac-toe.
+You are lost in a forest without a map or compass. How would you attempt to find your way out?
+You have a brick, a rope, and a bucket. How can you measure the height of a building?
+Design a new type of transportation for a crowded city.
+How can you use a paperclip to escape from handcuffs? (Assume standard handcuffs and a standard paperclip).

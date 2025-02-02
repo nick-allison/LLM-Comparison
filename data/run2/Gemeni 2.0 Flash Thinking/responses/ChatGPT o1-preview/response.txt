@@ -1,0 +1,30 @@
+No
+12 chickens and 8 cows
+Charlie
+27
+Minimum wage raises labor costs, potentially leading to reduced demand for labor and unemployment.
+Weigh 3 balls against 3 balls. Based on the result, you can isolate the heavier ball in the next weighing by comparing either two of the potentially heavier balls or the remaining two balls if the first weighing was balanced.
+7 and 8
+It shows that even when cooperation is beneficial to all parties, individual self-interest can lead to a worse outcome for everyone due to lack of trust and incentive to defect.
+North Pole or points near the South Pole.
+Rolle's Theorem states that if a function is continuous on [a, b], differentiable on (a, b), and f(a) = f(b), then there exists at least one c in (a, b) such that f'(c) = 0. This is because to go from f(a) back to f(b) at the same height, the function must turn around at some point, which implies a zero derivative.
+200 widgets
+5 minutes
+10 meters
+Considerations include bias in algorithms, data privacy, patient autonomy, accountability, equity, transparency, and potential dehumanization of care.
+3 PM
+√7 - 1
+Dijkstra's algorithm or A* algorithm.
+3/8
+Opportunity cost is the value of the next best alternative forgone. For example, the opportunity cost of going to college includes not just tuition, but also the income you could have earned working full-time.
+40 mph
+12 people
+Diminishing marginal utility means that as a person consumes more of a good, the additional satisfaction from each extra unit decreases. For example, the first slice of pizza provides more satisfaction than the fifth.
+10 units by 15 units
+0.657 or 65.7%
+Classical conditioning involves learning through association between stimuli, while operant conditioning involves learning through consequences of behavior, using reinforcement and punishment.
+Pick one fruit from the jar labeled "apples and oranges". If you pick an apple, the jars are (originally labeled Apples & Oranges, Apples, Oranges) -> (Apples, Oranges, Apples & Oranges). If you pick an orange, the jars are (originally labeled Apples & Oranges, Apples, Oranges) -> (Oranges, Apples & Oranges, Apples).
+Approximately $1,628.89
+The Treaty of Versailles imposed harsh reparations, territorial losses, and war guilt on Germany, leading to economic hardship, resentment, and political instability, which contributed to the rise of extremist ideologies and ultimately World War II.
+π/4
+Approximately 1562.05 miles

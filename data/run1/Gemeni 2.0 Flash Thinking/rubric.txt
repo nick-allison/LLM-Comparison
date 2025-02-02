@@ -1,0 +1,275 @@
+## Rubric for Evaluating LLM Responses to Prompts
+
+This rubric is designed to evaluate an LLM's responses to the provided prompts. Each prompt will be scored based on several criteria, with a maximum possible score for each.
+
+**General Criteria (Applicable to most prompts):**
+
+* **Correctness/Accuracy (Max 2 points):**  How factually accurate and logically sound is the response?
+    * **2 points:**  Response is completely correct and accurate. Demonstrates full understanding of the concepts involved.
+    * **1 point:** Response is mostly correct but contains minor inaccuracies or omissions. Demonstrates partial understanding.
+    * **0 points:** Response is incorrect, inaccurate, or demonstrates a fundamental misunderstanding.
+* **Clarity and Coherence (Max 1 point):** How clear, well-organized, and easy to understand is the response?
+    * **1 point:** Response is clear, concise, well-organized, and easy to understand. Uses appropriate language.
+    * **0 points:** Response is unclear, disorganized, rambling, or difficult to understand. Language is confusing or inappropriate.
+* **Completeness (Max 1 point):** How fully does the response address all aspects of the prompt?
+    * **1 point:** Response fully addresses all parts of the prompt and leaves no significant aspects unanswered.
+    * **0 points:** Response is incomplete, missing key aspects of the prompt or failing to answer all parts.
+* **Reasoning/Explanation (Max 1 point - *where applicable*):** How well-reasoned and explained is the response (for prompts requiring explanation)?
+    * **1 point:**  Reasoning is logical, well-supported, and clearly explained. Demonstrates strong analytical skills.
+    * **0 points:** Reasoning is flawed, poorly supported, or lacking. Explanation is weak or absent.
+
+**Prompt-Specific Rubrics:**
+
+**Prompt 1: Squares and Quadrilaterals**
+
+* **Correctness/Accuracy (2 points):** Correctly answers "yes" and accurately explains the hierarchical relationship between squares, rectangles, and quadrilaterals, using definitions.
+* **Clarity and Coherence (1 point):** Explanation is clear, concise, and easy to understand.
+* **Completeness (1 point):**  Fully explains why squares are quadrilaterals based on given premises.
+* **Reasoning/Explanation (1 point):** Logical deduction is clearly presented and easy to follow.
+
+**Prompt 2: P implies Q, Q implies R**
+
+* **Correctness/Accuracy (2 points):** Correctly answers "yes" and accurately explains the transitive property of implication.
+* **Clarity and Coherence (1 point):** Explanation is clear and uses appropriate logical terminology.
+* **Completeness (1 point):** Fully explains the concept of transitivity in logical implication.
+* **Reasoning/Explanation (1 point):** Provides a clear and understandable explanation of why P implies R.
+
+**Prompt 3: Birds, Penguins, and Flying**
+
+* **Correctness/Accuracy (2 points):** Correctly identifies the conclusion as logically invalid and explains why based on the nature of "every" and the possibility of exceptions.
+* **Clarity and Coherence (1 point):** Explanation is clear and uses appropriate logical terms (premise, conclusion, validity).
+* **Completeness (1 point):** Fully explains why the conclusion is not logically valid despite the premises seemingly being related.
+* **Reasoning/Explanation (1 point):**  Clearly distinguishes between logical validity and factual truth, and identifies the flaw in the reasoning.
+
+**Prompt 4: Wet Grass**
+
+* **Correctness/Accuracy (1 point):** Identifies at least two highly likely and accurate explanations for wet grass (rain, dew, sprinkler).
+* **Clarity and Coherence (1 point):** Explanations are clear and concise.
+* **Completeness (2 points):** Provides at least three plausible explanations, ranging from very common to less common but still possible.
+* **Reasoning/Explanation (1 point):** Explanations are logically connected to the observation of wet grass.
+
+**Prompt 5: Fever, Cough, Fatigue**
+
+* **Correctness/Accuracy (2 points):** Lists at least three relevant possible diagnoses (flu, cold, COVID-19, bronchitis, pneumonia).
+* **Clarity and Coherence (1 point):** Diagnoses are presented clearly and concisely.
+* **Completeness (1 point):** Includes a mention of the most probable diagnoses in a general context (e.g., flu or cold during common seasons).
+* **Reasoning/Explanation (1 point):** Briefly explains why these symptoms are associated with the listed diagnoses.
+
+**Prompt 6: Lights On, No Car**
+
+* **Correctness/Accuracy (1 point):** Provides at least two plausible explanations (someone is home but used other transport, someone left lights on, burglar).
+* **Clarity and Coherence (1 point):** Explanations are clear and easy to understand.
+* **Completeness (2 points):** Offers a range of explanations, including common and less common but possible scenarios.
+* **Reasoning/Explanation (1 point):** Explanations are logically connected to the observation of lights on and no car.
+
+**Prompt 7: Roman Empire Not Fallen**
+
+* **Correctness/Accuracy (1 point):**  Offers plausible and historically informed areas of difference (language, law, culture, technology, politics).
+* **Clarity and Coherence (1 point):**  Hypothetical differences are clearly described.
+* **Completeness (2 points):**  Explores multiple significant areas of potential difference and considers long-term impacts.
+* **Reasoning/Explanation (1 point):**  Provides logical reasoning connecting the Roman Empire's continued existence to the proposed differences.
+
+**Prompt 8: Gravity Reversed for 5 Minutes**
+
+* **Correctness/Accuracy (1 point):**  Describes the immediate and direct consequences of gravity reversal (objects lifting off, atmosphere escaping).
+* **Clarity and Coherence (1 point):** Description of consequences is clear and vivid.
+* **Completeness (2 points):**  Describes a range of consequences, including immediate, short-term, and potentially catastrophic effects.
+* **Reasoning/Explanation (1 point):**  Consequences are logically derived from the premise of gravity reversal.
+
+**Prompt 9: Teleportation Ability**
+
+* **Correctness/Accuracy (1 point):** Identifies significant areas of daily life impact (commuting, travel, work, social interactions).
+* **Clarity and Coherence (1 point):** Changes to daily life are clearly described and easy to imagine.
+* **Completeness (2 points):**  Explores a variety of changes across different aspects of daily life, both positive and potentially negative.
+* **Reasoning/Explanation (1 point):**  Changes are logically derived from the ability to teleport and its implications.
+
+**Prompt 10: Heart to Body :: ______ to Car**
+
+* **Correctness/Accuracy (2 points):** Provides a highly analogous and appropriate answer (engine, motor).
+* **Clarity and Coherence (1 point):** Analogy is clear and easy to understand.
+* **Completeness (1 point):**  Explains the functional similarity between the heart and the chosen car part (pumping/powering).
+* **Reasoning/Explanation (1 point):** Clearly articulates the reasoning behind the chosen analogy.
+
+**Prompt 11: Internet and Library Analogy**
+
+* **Correctness/Accuracy (1 point):**  Identifies key analogous features (information storage, access, organization, vastness).
+* **Clarity and Coherence (1 point):** Analogy is clearly explained and easy to grasp.
+* **Completeness (2 points):**  Explores multiple points of similarity between the internet and a library, offering a comprehensive analogy.
+* **Reasoning/Explanation (1 point):**  Clearly articulates the reasoning behind each point of similarity in the analogy.
+
+**Prompt 12: Doctor : Patient :: Teacher : ______**
+
+* **Correctness/Accuracy (2 points):** Provides the most common and highly appropriate answer (Student).
+* **Clarity and Coherence (1 point):** Analogy is clear and straightforward.
+* **Completeness (1 point):** Implicitly understands the relationship in the first pair and applies it to the second.
+* **Reasoning/Explanation (1 point):** Briefly explains the parallel relationship of professional to recipient of service/knowledge.
+
+**Prompt 13: Smoking and Lung Cancer**
+
+* **Correctness/Accuracy (2 points):** Correctly answers "no" and accurately explains the concept of correlation vs. causation and probabilistic risk.
+* **Clarity and Coherence (1 point):** Explanation is clear and avoids oversimplification.
+* **Completeness (1 point):** Fully explains why not everyone who smokes will get lung cancer despite the causal link.
+* **Reasoning/Explanation (1 point):** Clearly distinguishes between cause and effect, and probability vs. certainty.
+
+**Prompt 14: Ice Cream and Crime**
+
+* **Correctness/Accuracy (2 points):** Correctly answers "no" and accurately explains the concept of correlation not equaling causation and suggests a possible confounding variable (weather/season).
+* **Clarity and Coherence (1 point):** Explanation is clear and uses appropriate terminology (correlation, causation, confounding variable).
+* **Completeness (1 point):** Fully explains why the correlation does not imply causation and offers a plausible alternative explanation.
+* **Reasoning/Explanation (1 point):**  Clearly distinguishes between correlation and causation, and provides logical reasoning for the alternative explanation.
+
+**Prompt 15: Plant Not Watered, Dies**
+
+* **Correctness/Accuracy (2 points):** Correctly identifies the causal relationship (lack of water causes death).
+* **Clarity and Coherence (1 point):** Explanation is clear and concise.
+* **Completeness (1 point):**  Explains the direct causal link and the necessity of water for plant survival.
+* **Reasoning/Explanation (1 point):**  Articulates the biological need for water in plants and how its absence leads to death.
+
+**Prompt 16: Justifiable to Lie?**
+
+* **Correctness/Accuracy (1 point):** Acknowledges that lying *can* be justifiable in certain circumstances (self-defense, protecting others).
+* **Clarity and Coherence (1 point):** Explanation is clear and avoids absolute pronouncements.
+* **Completeness (2 points):**  Provides at least two distinct and morally relevant circumstances where lying might be justifiable.
+* **Reasoning/Explanation (1 point):**  Offers reasoned ethical justification for lying in specific scenarios, often involving minimizing harm.
+
+**Prompt 17: Shoplifting Food (Hunger)**
+
+* **Correctness/Accuracy (1 point):** Acknowledges the act is legally wrong but explores the moral complexity due to hunger and necessity.
+* **Clarity and Coherence (1 point):** Explanation is clear and considers different perspectives.
+* **Completeness (2 points):**  Discusses both the legal and moral dimensions of the act, considering mitigating circumstances like hunger and lack of alternatives.
+* **Reasoning/Explanation (1 point):**  Provides reasoned ethical arguments considering factors like basic needs, societal obligations, and the severity of the situation.
+
+**Prompt 18: Self-Driving Car Dilemma**
+
+* **Correctness/Accuracy (1 point):**  Acknowledges the ethical dilemma and that there is no easy "correct" answer.
+* **Clarity and Coherence (1 point):** Explanation is clear and identifies the core conflict (utilitarianism vs. deontology or similar ethical frameworks).
+* **Completeness (2 points):**  Explores different potential approaches (utilitarian, minimizing harm, prioritizing passenger, random choice) and acknowledges the complexities and trade-offs.
+* **Reasoning/Explanation (1 point):**  Articulates the ethical principles or frameworks that might inform different decision-making strategies in this scenario.
+
+**Prompt 19: Direction after Turns**
+
+* **Correctness/Accuracy (2 points):** Correctly calculates the final direction (Northeast).
+* **Clarity and Coherence (1 point):**  Explanation of the steps is clear and easy to follow.
+* **Completeness (1 point):**  Shows the intermediate steps of turning right and then left.
+* **Reasoning/Explanation (1 point):**  Implicitly uses spatial reasoning to determine the direction.
+
+**Prompt 20: Clock Hands at 3:15**
+
+* **Correctness/Accuracy (2 points):** Accurately describes the spatial relationship: minute hand on the 3, hour hand slightly past the 3 and towards the 4.
+* **Clarity and Coherence (1 point):** Description is clear and easy to visualize.
+* **Completeness (1 point):**  Describes the position of both hands in relation to the clock face numbers.
+* **Reasoning/Explanation (1 point):** Implicitly understands how the hour hand moves as the minute hand progresses.
+
+**Prompt 21: Cube with Red Faces**
+
+* **Correctness/Accuracy (2 points):** Correctly calculates the number of cubes with exactly two red faces (12).
+* **Clarity and Coherence (1 point):** Explanation is clear and describes the location of these cubes (edges, excluding corners).
+* **Completeness (1 point):**  Implicitly understands the structure of a 3x3x3 cube and how cutting affects face painting.
+* **Reasoning/Explanation (1 point):**  Explains the reasoning based on the cube's geometry and the painting process.
+
+**Prompt 22: Chronological Order of Events**
+
+* **Correctness/Accuracy (2 points):** Correctly orders the events chronologically: French Revolution, American Civil War, World War II.
+* **Clarity and Coherence (1 point):**  Order is presented clearly.
+* **Completeness (1 point):** Lists all events in the correct sequence.
+* **Reasoning/Explanation (1 point):**  Implicitly understands the approximate time periods of these historical events.
+
+**Prompt 23: Train Travel Duration**
+
+* **Correctness/Accuracy (2 points):** Correctly calculates the travel duration for each train (4 hours each) and concludes they are equal.
+* **Clarity and Coherence (1 point):** Calculations and conclusion are clearly presented.
+* **Completeness (1 point):** Shows the calculation for both trains' travel time.
+* **Reasoning/Explanation (1 point):**  Clearly explains the time calculation by subtracting departure time from arrival time.
+
+**Prompt 24: Arrange Historical Events**
+
+* **Correctness/Accuracy (2 points):** Correctly orders the events: French Revolution, American Civil War, World War II.
+* **Clarity and Coherence (1 point):** Order is presented clearly.
+* **Completeness (1 point):** Lists all events in the correct sequence.
+* **Reasoning/Explanation (1 point):** Implicitly understands the relative time periods of these historical events.
+
+**Prompt 25: Chickens and Cows**
+
+* **Correctness/Accuracy (2 points):** Correctly solves for 12 chickens and 8 cows.
+* **Clarity and Coherence (1 point):** Steps to solve are clearly explained (e.g., setting up equations or using a logical approach).
+* **Completeness (1 point):** Shows the steps taken to arrive at the solution.
+* **Reasoning/Explanation (1 point):**  Explains the logic behind the steps, whether algebraic or trial-and-error.
+
+**Prompt 26: Paper Folding Thickness**
+
+* **Correctness/Accuracy (2 points):** Provides a reasonable approximation and understands exponential growth.  Recognizes the thickness will be astronomically large, even if not precisely calculated.
+* **Clarity and Coherence (1 point):** Explanation is clear and conveys the concept of exponential increase.
+* **Completeness (1 point):** Explains that each fold doubles the thickness.
+* **Reasoning/Explanation (1 point):**  Explains the exponential nature of folding and why the thickness becomes incredibly large.
+
+**Prompt 27: Father and Son Ages**
+
+* **Correctness/Accuracy (2 points):** Correctly solves for father's age 60 and son's age 30.
+* **Clarity and Coherence (1 point):** Steps to solve are clearly explained (e.g., setting up equations or using a logical approach).
+* **Completeness (1 point):** Shows the steps taken to arrive at the solution.
+* **Reasoning/Explanation (1 point):** Explains the logic behind the steps, whether algebraic or trial-and-error.
+
+**Prompt 28: Coat in Winter vs. Summer**
+
+* **Correctness/Accuracy (2 points):** Correctly identifies the primary reason: insulation and heat retention in winter.
+* **Clarity and Coherence (1 point):** Explanation is clear and concise.
+* **Completeness (1 point):** Explains the basic principle of how coats work to keep you warm.
+* **Reasoning/Explanation (1 point):** Connects wearing a coat to the need for warmth in cold weather and the function of insulation.
+
+**Prompt 29: Purpose of Traffic Lights**
+
+* **Correctness/Accuracy (2 points):** Accurately describes the main purpose: to regulate traffic flow and prevent accidents at intersections.
+* **Clarity and Coherence (1 point):** Explanation is clear and easy to understand.
+* **Completeness (1 point):**  Covers the primary functions of traffic lights - safety and efficiency.
+* **Reasoning/Explanation (1 point):**  Explains how traffic lights achieve their purpose by controlling right-of-way.
+
+**Prompt 30: Feather and Brick Drop**
+
+* **Correctness/Accuracy (2 points):** Correctly states the brick will hit first *in air* and explains why due to air resistance.
+* **Clarity and Coherence (1 point):** Explanation is clear and addresses the role of air resistance.
+* **Completeness (1 point):**  Ideally mentions the concept of equal fall in a vacuum (though not strictly required).
+* **Reasoning/Explanation (1 point):**  Explains the difference in air resistance between feather and brick and its effect on falling speed.
+
+**Prompt 31: John's Belief about Mary's Anger**
+
+* **Correctness/Accuracy (2 points):** Correctly answers "no" and explains that John's belief is based on observation but is not necessarily Mary's actual mental state.
+* **Clarity and Coherence (1 point):** Explanation is clear and concise.
+* **Completeness (1 point):**  Explains the difference between observed behavior and internal mental states.
+* **Reasoning/Explanation (1 point):**  Explains that frowning can have multiple causes and that John's inference is not guaranteed to be accurate.
+
+**Prompt 32: Sarah, Tom, and the Cookie**
+
+* **Correctness/Accuracy (2 points):** Correctly predicts Tom will look in the drawer (where he *believes* he hid it).
+* **Clarity and Coherence (1 point):** Explanation is clear and focuses on Tom's perspective.
+* **Completeness (1 point):** Explains that Tom's belief about the cookie's location will guide his search.
+* **Reasoning/Explanation (1 point):** Demonstrates understanding of false-belief and perspective-taking (Theory of Mind).
+
+**Prompt 33: Describing Red to a Colorblind Person**
+
+* **Correctness/Accuracy (1 point):** Acknowledges the difficulty of directly conveying the sensation of red.
+* **Clarity and Coherence (1 point):** Explanation is clear and addresses the limitations of verbal description.
+* **Completeness (2 points):**  Offers analogies or comparisons to other senses or experiences that a colorblind person *can* perceive (warmth, energy, emotions associated with red) to indirectly convey *some* aspects of red.
+* **Reasoning/Explanation (1 point):**  Explains why direct description is impossible and justifies the use of analogies.
+
+**Prompt 34: Moving Piano Up Stairs**
+
+* **Correctness/Accuracy (1 point):** Proposes a generally feasible and safe plan involving multiple people and potentially equipment.
+* **Clarity and Coherence (1 point):** Plan is described clearly and logically sequenced.
+* **Completeness (2 points):**  Includes key steps like planning, assessing the staircase, using enough people, techniques for lifting and maneuvering (tilting, using straps), and safety considerations.
+* **Reasoning/Explanation (1 point):**  Plan is based on practical considerations of weight, space, and safety.
+
+**Prompt 35: Deserted Island Survival**
+
+* **Correctness/Accuracy (1 point):**  Prioritizes essential survival needs (water, shelter, fire).
+* **Clarity and Coherence (1 point):** Plan is clearly outlined in logical steps.
+* **Completeness (2 points):**  Covers key survival priorities: finding/creating water source, building shelter, making fire for warmth/cooking/signaling, food acquisition (long-term), signaling for rescue.
+* **Reasoning/Explanation (1 point):**  Plan is based on a logical hierarchy of survival needs in a deserted island scenario.
+
+**Prompt 36: Broken Bicycle Tire, 10 Miles Home**
+
+* **Correctness/Accuracy (1 point):** Identifies relevant options (walking, calling for help, attempting repair, flagging down a ride).
+* **Clarity and Coherence (1 point):** Options are presented clearly and concisely.
+* **Completeness (2 points):**  Lists a range of realistic options, including both immediate and longer-term solutions. For each option, explicitly lists pros and cons related to time, effort, feasibility, and resources.
+* **Reasoning/Explanation (1 point):** Pros and cons are logically connected to each option and relevant to the context of needing to get home.
+
+5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5

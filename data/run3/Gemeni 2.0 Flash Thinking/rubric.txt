@@ -1,0 +1,232 @@
+## Rubric for Evaluating LLM Responses to Reasoning Prompts
+
+This rubric is designed to evaluate the quality of an LLM's responses to the provided reasoning prompts. Each prompt is scored out of a maximum of 3 points, based on the criteria outlined below.
+
+**General Scoring Criteria (Applicable to all prompts):**
+
+| Score | Description                                                                                                |
+|-------|------------------------------------------------------------------------------------------------------------|
+| **3 - Excellent** | **Accurate, Clear, Well-Reasoned, Comprehensive:**  Answer is correct, directly addresses the prompt, provides clear and logical reasoning, demonstrates a thorough understanding of the concepts involved, and is well-articulated. May include insightful details or nuances. |
+| **2 - Good**    | **Mostly Accurate, Reasoned, Understandable:** Answer is generally correct, addresses the prompt, provides reasonable reasoning, demonstrates a good understanding of the concepts, and is understandable. May have minor inaccuracies or lack some detail. |
+| **1 - Fair**    | **Partially Accurate, Basic Reasoning, Understandable but Lacking:** Answer is partially correct or incomplete, attempts to address the prompt, provides basic or incomplete reasoning, demonstrates a limited understanding of the concepts, and is understandable but may be unclear or superficial. |
+| **0 - Poor/Incorrect**| **Inaccurate, Unclear/No Reasoning, Off-Topic:** Answer is incorrect, does not address the prompt effectively, lacks reasoning or provides flawed reasoning, demonstrates a lack of understanding of the concepts, or is unclear, nonsensical, or off-topic. |
+
+**Prompt-Specific Rubric Details:**
+
+**Prompt 1: Squares and Rhombuses**
+* **3 Points:** Correctly answers "No" and clearly explains that while all squares are rectangles, not all rectangles are rhombuses, and squares *are* rhombuses because they have four equal sides. (Corrected answer based on prompt's intended question)
+* **2 Points:** Answers "No" but explanation is partially correct or less clear on the relationship between the shapes.
+* **1 Point:** Incorrect answer or very weak/unclear explanation.
+* **0 Points:** No answer or completely wrong.
+
+**Prompt 2: Dogs and Barking**
+* **3 Points:** Correctly identifies the conclusion as valid and explains that this is an example of Modus Tollens or deductive reasoning.
+* **2 Points:** Identifies the conclusion as valid but explanation is less precise about Modus Tollens or deductive reasoning.
+* **1 Point:** Incorrectly says invalid or provides flawed reasoning about validity.
+* **0 Points:** No answer or completely wrong.
+
+**Prompt 3: Implication Chain**
+* **3 Points:** Correctly answers "Yes" and explains the transitive property of implication (if A->B and B->C, then A->C).
+* **2 Points:** Answers "Yes" but explanation is less clear on transitive property or implication.
+* **1 Point:** Incorrectly answers "No" or provides flawed reasoning.
+* **0 Points:** No answer or completely wrong.
+
+**Prompt 4: House Scenario**
+* **3 Points:** Provides a highly likely and coherent explanation like "intruder," "burglary," or "unexpected visitor," logically connecting all observations (open door, barking, broken vase) to this explanation.
+* **2 Points:** Provides a plausible explanation but might not connect all observations as strongly, or explanation is slightly less likely but still reasonable.
+* **1 Point:** Weak or less plausible explanation, or only addresses some of the observations, or relies on less common scenarios without justification.
+* **0 Points:** Unrelated or nonsensical explanation.
+
+**Prompt 5: Fever, Cough, Fatigue**
+* **3 Points:** Lists three highly plausible diagnoses (e.g., Common Cold, Influenza, COVID-19) ordered from most to least likely based on commonality and symptom presentation, with brief and accurate reasoning for each.
+* **2 Points:** Lists three plausible diagnoses but order or reasoning is slightly less convincing, or some diagnoses are less likely than others listed, but still within the realm of common possibilities.
+* **1 Point:** Lists diagnoses that are less common or reasoning is weak/inaccurate, or fewer than three diagnoses are provided, or includes highly unlikely diagnoses without justification.
+* **0 Points:** Irrelevant or nonsensical diagnoses.
+
+**Prompt 6: 3-Toed Footprint**
+* **3 Points:** Suggests "dinosaur" (specifically theropod) as the most likely creature, providing reasonable justification based on size and toe count. May also mention large birds as a less likely but possible alternative, acknowledging context matters.
+* **2 Points:** Suggests dinosaur but justification is less strong, or suggests other less plausible options without strong justification, or focuses on less relevant features of footprints.
+* **1 Point:** Suggests very unlikely options (e.g., mythical creatures, common animals with altered feet) or reasoning is flawed or illogical.
+* **0 Points:** Irrelevant or nonsensical creature.
+
+**Prompt 7: Doctor : Patient :: Teacher : _____**
+* **3 Points:** Completes the analogy with "student" and clearly explains the relationship as Doctor's role is to treat/care for the patient, and Teacher's role is to educate/instruct the student (recipient of the professional's action).
+* **2 Points:** Completes with "student" or a very close synonym (e.g., "pupil," "learner") but explanation is less clear or slightly off, or offers a less direct but still reasonable analogy with justification.
+* **1 Point:** Incomplete analogy or incorrect completion with weak or illogical explanation.
+* **0 Points:** Irrelevant or nonsensical analogy.
+
+**Prompt 8: Opposite of Loud**
+* **3 Points:** Answers "quiet" or "silent" and clearly explains that it represents the opposite end of the volume spectrum, analogous to "cold" being the opposite of "hot" on the temperature spectrum.
+* **2 Points:** Answers "soft," "inaudible," or similar, with reasonable but slightly less direct or precise explanation.
+* **1 Point:** Offers a less accurate opposite (e.g., "calm," "peaceful") or provides weak/unclear reasoning, confusing volume with other concepts.
+* **0 Points:** Irrelevant or nonsensical opposite.
+
+**Prompt 9: Car : Body :: Engine : _____**
+* **3 Points:** Answers "heart" or "brain" (heart preferred for closer analogy to a mechanical power source) and clearly explains that it represents the power source/driving force of the body, analogous to the engine in a car, focusing on function.
+* **2 Points:** Answers "heart," "brain," or another reasonable organ but explanation is less clear, or offers other less fitting analogies with some justification, focusing on less direct functional similarities.
+* **1 Point:** Weak analogy or incorrect completion with weak or illogical explanation, focusing on superficial or irrelevant similarities.
+* **0 Points:** Irrelevant or nonsensical analogy.
+
+**Prompt 10: Gasoline Price & Public Transport**
+* **3 Points:** Correctly identifies increased public transportation usage as a likely consequence and clearly explains the causal link: higher gas price -> increased cost of driving -> increased demand for cheaper alternatives like public transportation.
+* **2 Points:** Identifies increased public transportation usage but explanation is less clear on the causal link, less detailed in the mechanism, or slightly less logically sound.
+* **1 Point:** Mentions public transport but reasoning is weak, unclear, or incomplete, or suggests other less likely consequences as primary without strong justification.
+* **0 Points:** Irrelevant or nonsensical consequence.
+
+**Prompt 11: New Recycling Program**
+* **3 Points:** Lists two distinct and plausible positive consequences (e.g., environmental benefits, resource conservation, job creation) and two distinct and plausible negative consequences (e.g., implementation costs, inconvenience for citizens, sorting complexity) that are relevant to a new recycling program.
+* **2 Points:** Lists some positive and negative consequences, but some may be less distinct, less plausible, less balanced (e.g., more positive than negative or vice versa), or fewer than two in each category.
+* **1 Point:** Lists very general or weak consequences, or consequences that are only weakly related to a recycling program, or highly unrealistic consequences.
+* **0 Points:** Irrelevant or nonsensical consequences.
+
+**Prompt 12: Deforestation to Climate Change**
+* **3 Points:** Clearly and accurately explains the causal chain, linking deforestation to reduced CO2 absorption, increased atmospheric CO2 concentration, enhanced greenhouse effect, global warming, and ultimately climate change.
+* **2 Points:** Explains the causal chain but with some steps less clear, slightly simplified, or missing some links, but generally maintains the correct flow and core causal relationships.
+* **1 Point:** Mentions some elements of the chain but explanation is incomplete, inaccurate in parts, or unclear about the causal links between deforestation and climate change.
+* **0 Points:** Irrelevant or nonsensical explanation of the relationship.
+
+**Prompt 13: Roman Empire Never Fell**
+* **3 Points:** Describes several plausible and significant differences in modern Europe, focusing on areas like law, politics, language, culture, technology, or the development of nation-states, due to the continued influence of a non-fallen Roman Empire, offering specific examples or categories of change.
+* **2 Points:** Describes some differences but they are less detailed, less plausible, fewer in number, or less impactful, or focuses on less relevant aspects of Roman influence.
+* **1 Point:** Vague or very general differences, or differences that are not well-supported by historical context, or limited impact described, or mostly speculative without grounding in Roman history.
+* **0 Points:** Irrelevant or nonsensical differences.
+
+**Prompt 14: Gravity Stops for 5 Minutes**
+* **3 Points:** Describes immediate and significant consequences of gravity ceasing, including floating of people and objects, dispersal of unanchored materials, potential atmospheric effects, and the chaotic implications for daily life and the environment upon gravity's sudden return.
+* **2 Points:** Describes some consequences but less detailed, less dramatic, misses some key effects (like atmospheric consequences or return of gravity impact), or focuses on less impactful scenarios.
+* **1 Point:** Mentions only very basic or less impactful consequences (e.g., just floating), or demonstrates misunderstandings of gravity's role, or focuses on unrealistic or trivial outcomes.
+* **0 Points:** Irrelevant or nonsensical consequences.
+
+**Prompt 15: Different Career Path**
+* **3 Points:** Describes several distinct and plausible differences in personal life (e.g., skills, daily activities, social circles, lifestyle, values, personal growth) based on choosing a significantly different career path, showing thoughtful reflection and comparative thinking between the chosen and alternative paths.
+* **2 Points:** Describes some differences but they are less detailed, less distinct, less reflective, or focuses on more superficial differences (e.g., just income or location) without exploring deeper life changes.
+* **1 Point:** Very general or superficial differences, or limited comparison to the current path, or focuses on trivial or unrealistic changes.
+* **0 Points:** Irrelevant or nonsensical differences.
+
+**Prompt 16: Justifiable Lie**
+* **3 Points:** Provides a clear and ethically complex scenario where lying might be considered morally permissible (e.g., protecting innocent lives, preserving safety in extreme situations) and justifies it using ethical reasoning (e.g., utilitarianism, deontology in conflict, lesser of two evils), acknowledging the moral tension involved.
+* **2 Points:** Provides a scenario where lying *could* be argued as permissible but justification is less clear, less ethically grounded, or the scenario is less compelling as a morally permissible lie, or justification is simplistic.
+* **1 Point:** Weak scenario or justification for lying, or the scenario is not clearly morally permissible and justification is unconvincing or unethical, or justifies lying in clearly unethical situations.
+* **0 Points:** No scenario or justification, or defends lying without any ethical consideration, or provides a nonsensical justification.
+
+**Prompt 17: Trolley Problem**
+* **3 Points:** Clearly describes the trolley problem dilemma, acknowledges the different major moral perspectives (utilitarianism vs. deontology or rights-based ethics) and the lack of a universally "right" answer, demonstrating understanding of the ethical complexity and the core conflict.
+* **2 Points:** Describes the trolley problem but less clearly, only presents one ethical perspective or heavily favors one approach without acknowledging the conflict, or offers a simplistic "solution" without recognizing the ethical tension.
+* **1 Point:** Misunderstands the core dilemma of the trolley problem, or offers a simplistic or poorly reasoned "solution" that ignores ethical considerations, or focuses on irrelevant details of the scenario.
+* **0 Points:** Irrelevant or nonsensical answer.
+
+**Prompt 18: AI Deepfakes Ethics**
+* **3 Points:** Discusses several significant and distinct ethical considerations of using AI to create deepfakes of political figures (e.g., misinformation, political manipulation, erosion of trust, damage to reputation, impact on democracy), demonstrating awareness of societal and individual harms and the breadth of ethical implications.
+* **2 Points:** Discusses some ethical concerns but less comprehensively, less distinctly, or less clearly articulates the harms and broader implications for society and political discourse.
+* **1 Point:** Mentions only very general or superficial ethical concerns (e.g., "it's bad to lie"), or focuses on less relevant or minor aspects of deepfake ethics, or misunderstandings the technology's impact.
+* **0 Points:** Irrelevant or nonsensical ethical discussion.
+
+**Prompt 19: Cube Corner Cut**
+* **3 Points:** Correctly states the number of faces (7), edges (15), and vertices (10) of the resulting shape after cutting a corner of a cube, and ideally provides a brief explanation or method (e.g., visualizing the cut, applying Euler's formula implicitly or explicitly).
+* **2 Points:** Gets mostly correct counts (e.g., faces and vertices correct, edges slightly off), or provides correct counts but no explanation, or demonstrates some understanding of how the cut affects the cube's features but with minor inaccuracies.
+* **1 Point:** Partially correct counts with significant errors (e.g., only one or two correct), or demonstrates misunderstanding of how cutting a corner changes the number of faces, edges, vertices, or provides very weak reasoning.
+* **0 Points:** Incorrect counts across all categories and no understanding of the geometry involved.
+
+**Prompt 20: Town Spatial Relationship**
+* **3 Points:** Correctly describes the spatial relationship between town A and town C as "Town A is Northwest of Town C" (or equivalent like "North and West"), accurately inferring the combined direction from the individual relationships to Town B.
+* **2 Points:** Describes A as being "North and West" of C but less precisely as "Northwest," or describes it as "diagonally Northwest" without explicitly stating North and West components, or provides a slightly less accurate directional term but still generally correct quadrant.
+* **1 Point:** Incorrect spatial relationship (e.g., "Northeast," "Southwest," "directly North"), or misunderstands basic cardinal directions, or describes a relationship that contradicts the given information.
+* **0 Points:** Irrelevant or nonsensical spatial relationship.
+
+**Prompt 21: Clock Angle 3:30**
+* **3 Points:** Correctly calculates the angle between the hour and minute hand at 3:30 as 75 degrees (or a close approximation if slight rounding error) and shows clear steps in the calculation, explaining the position of both hands and the method for finding the angle difference.
+* **2 Points:** Gets close to the correct angle but calculation is slightly off due to minor errors in hand position or angle calculation, or provides a correct or nearly correct answer but with less clear or complete steps shown.
+* **1 Point:** Incorrect angle with flawed calculation, misunderstanding of clock hand movement, or significant error in determining hand positions or angle difference.
+* **0 Points:** Irrelevant or nonsensical angle.
+
+**Prompt 22: Temporal Order A, B, C**
+* **3 Points:** Correctly identifies the temporal order of events as C, then B, then A, clearly deducing the sequence from the given "before" and "after" relationships.
+* **2 Points:** Gets the order mostly correct but with minor confusion or slight reversal of order (e.g., B, C, A or A, C, B), indicating some understanding but not perfect deduction.
+* **1 Point:** Incorrect order with significant misunderstanding of "before" and "after" relationships, or completely reverses the correct order.
+* **0 Points:** Irrelevant or nonsensical order.
+
+**Prompt 23: Cake Baking Time**
+* **3 Points:** Correctly calculates the time the cake will be cool enough to frost as 2:45 PM, showing clear steps in adding the baking time (30 minutes) and cooling time (15 minutes) to the starting time of 2:00 PM.
+* **2 Points:** Gets close to the correct time but calculation is slightly off due to minor errors in time addition or misunderstanding of time units, or provides a correct time but with less clear or complete steps shown.
+* **1 Point:** Incorrect time due to a significant error in time calculation, misunderstanding of time addition, or misinterpreting the baking/cooling instructions.
+* **0 Points:** Irrelevant or nonsensical time.
+
+**Prompt 24: Printing Press to Industrial Revolution**
+* **3 Points:** Lists several major and relevant historical events that occurred between the invention of the printing press and the start of the Industrial Revolution (e.g., Renaissance, Reformation, Age of Exploration, Scientific Revolution, Enlightenment), demonstrating good historical knowledge and chronological understanding.
+* **2 Points:** Lists some events but fewer in number, less directly relevant, or less chronologically ordered, or includes some less significant events along with major ones, indicating partial historical knowledge.
+* **1 Point:** Mentions very few relevant events, events are historically inaccurate or irrelevant, or primarily lists events outside the specified time period, demonstrating limited historical understanding of the era.
+* **0 Points:** Irrelevant or nonsensical historical events.
+
+**Prompt 25: Trains Meeting**
+* **3 Points:** Calculates the approximate meeting time of the trains around 2:29 PM (or a very close approximation), showing reasonable and clear steps in calculating relative speed, distance covered by the first train before the second starts, and the remaining time to meet based on relative speed and remaining distance.
+* **2 Points:** Gets close to the correct meeting time but calculation is slightly off due to minor errors in speed, distance, or time calculation, or provides a close answer but with less clear or complete steps shown, or minor flaws in the method but still arriving at a reasonable approximation.
+* **1 Point:** Incorrect meeting time due to a significant error in speed, distance, or time calculation, or major misunderstanding of the problem setup (e.g., adding speeds incorrectly, miscalculating head start distance), or arrives at a wildly inaccurate answer.
+* **0 Points:** Irrelevant or nonsensical time.
+
+**Prompt 26: Circle Radius Doubled, Area Increase**
+* **3 Points:** Correctly states that the area increases by a factor of 4 and clearly explains this using the formula for the area of a circle (Area = πr²) and demonstrating the effect of doubling the radius in the formula (Area = π(2r)² = 4πr²).
+* **2 Points:** States the correct factor of 4 but explanation is less clear, missing the formula, or provides a less detailed or slightly flawed but still understandable explanation, or gets the factor slightly wrong but shows some understanding of the area formula and its relation to radius.
+* **1 Point:** Incorrect factor of increase or very weak/unclear reasoning, misunderstanding the relationship between radius and area, or provides an illogical or nonsensical explanation.
+* **0 Points:** Irrelevant or nonsensical factor.
+
+**Prompt 27: Solve 2x + 5 = 11**
+* **3 Points:** Correctly solves for x = 3 and shows clear, step-by-step algebraic steps to arrive at the solution (e.g., subtracting 5 from both sides, then dividing both sides by 2).
+* **2 Points:** Provides the correct answer x=3 but steps are less clearly shown, missing some steps, or uses slightly less efficient but still correct algebraic manipulation, or shows correct steps but makes a minor arithmetic error leading to a slightly incorrect answer.
+* **1 Point:** Incorrect answer due to a minor algebraic error, but shows some attempt at solving the equation and understanding of basic algebraic operations, or shows a flawed method that partially addresses the problem.
+* **0 Points:** Incorrect answer and no attempt to solve, or completely wrong method demonstrated, or provides a nonsensical answer.
+
+**Prompt 28: Birds in Vacuum**
+* **3 Points:** Correctly and clearly explains that birds cannot fly in a vacuum because they require air to generate lift and thrust by flapping their wings, and a vacuum is the absence of air.
+* **2 Points:** Explains that birds cannot fly in a vacuum but explanation is less clear on the concepts of lift and thrust, or less precise in describing the nature of a vacuum, or provides a slightly less complete but still understandable explanation.
+* **1 Point:** Incorrect or incomplete explanation, or misunderstands why birds fly in general, or provides a vague or partially incorrect reason for the inability to fly in a vacuum.
+* **0 Points:** Irrelevant or nonsensical explanation.
+
+**Prompt 29: Hammer Nail with Banana**
+* **3 Points:** Correctly and clearly explains that using a banana to hammer a nail would be ineffective because the banana is too soft and will be crushed/mushed, lacking the hardness and force necessary to drive the nail, contrasting it with the properties of a hammer.
+* **2 Points:** Explains that a banana would be ineffective but reasoning is less detailed about the banana's softness, lack of force transfer, or comparison to a hammer's function, or provides a slightly less complete but still understandable explanation.
+* **1 Point:** Weak or less plausible explanation, or misunderstands why a hammer works and why a banana would fail, or focuses on less relevant factors.
+* **0 Points:** Irrelevant or nonsensical explanation.
+
+**Prompt 30: Bottled Water vs. Muddy Puddle**
+* **3 Points:** Correctly and clearly explains that bottled water is generally safer to drink because it is treated, purified, and comes from a controlled source, while muddy puddle water is untreated and likely contaminated with bacteria, viruses, parasites, and other harmful substances.
+* **2 Points:** Explains that bottled water is safer but explanation is less clear on the reasons for bottled water safety or the specific contamination risks of puddle water, or provides a slightly less complete but still understandable explanation.
+* **1 Point:** Weak or less detailed explanation, or only mentions one aspect of safety or contamination, or provides a superficial or partially incorrect reason for the safety difference.
+* **0 Points:** Irrelevant or nonsensical explanation.
+
+**Prompt 31: Move Heavy Box Upstairs**
+* **3 Points:** Describes a comprehensive and practical plan with multiple distinct and feasible solutions for moving a heavy box upstairs (e.g., breaking down load, using a ramp, furniture sliders, teamwork, taking breaks), considering potential challenges (weight, stairs, narrow spaces) and addressing safety concerns.
+* **2 Points:** Describes a reasonable plan but less comprehensive, fewer distinct solutions offered, less detailed in the steps, or less attention to potential challenges and safety aspects, but still outlines a generally workable strategy.
+* **1 Point:** Basic or incomplete plan with limited solutions, or solutions that are impractical or unrealistic for a typical staircase, or minimal consideration of challenges or safety.
+* **0 Points:** Impractical or nonsensical plan, or no plan provided, or suggests dangerous or unfeasible methods.
+
+**Prompt 32: Surprise Birthday Party**
+* **3 Points:** Lists a detailed and logically sequenced set of steps covering all key aspects of planning a surprise birthday party (e.g., guest list, date/time/venue, invitations, decorations, food, activities, secrecy, coordination of surprise), presented in a sensible and organized order for successful party organization.
+* **2 Points:** Lists many steps but less detailed, less logically ordered, misses some key aspects of planning (e.g., forgets about decorations or activities), or provides a somewhat disorganized or incomplete list, but still covers the main elements.
+* **1 Point:** Basic or incomplete list of steps, steps are not in a logical order for party planning, misses many crucial steps, or focuses on less important details while neglecting major planning components.
+* **0 Points:** Irrelevant or nonsensical steps, or no discernible plan for party organization.
+
+**Prompt 33: Tic-Tac-Toe Strategy vs. Perfect Opponent**
+* **3 Points:** Clearly explains that against a perfect opponent in tic-tac-toe, the best strategy is to play for a draw, as tic-tac-toe is a solved game, and describes key elements of optimal play (e.g., taking the center square when possible, taking corners, blocking opponent's winning lines), demonstrating understanding of game theory and tic-tac-toe's nature.
+* **2 Points:** Mentions that a draw is the likely outcome against a perfect opponent but is less clear on the specifics of optimal strategy, or describes some elements of optimal strategy but not comprehensively, or provides a slightly less accurate or detailed explanation of the game's solved nature.
+* **1 Point:** Describes an incorrect strategy for playing against a perfect opponent, suggests a winning strategy is possible against perfect play, or misunderstands the fundamental nature of tic-tac-toe as a solved game.
+* **0 Points:** Irrelevant or nonsensical strategy advice.
+
+**Prompt 34: Steps to Tic-Tac-Toe Answer**
+* **3 Points:** Accurately and clearly describes the reasoning process used to answer the previous tic-tac-toe question, stating that it was based on pre-existing knowledge of tic-tac-toe being a solved game, recalling general principles of optimal play, and applying game theory concepts to understand the game's dynamics.
+* **2 Points:** Describes the reasoning process but is less clear in articulating the reliance on game theory or pre-existing knowledge, or provides a less detailed or slightly less accurate description of the reasoning, but still captures the essence of drawing on prior understanding of the game.
+* **1 Point:** Provides a weak or inaccurate description of the reasoning process, misunderstands the basis of the tic-tac-toe answer, or gives a vague or unconvincing account of how the conclusion was reached.
+* **0 Points:** Irrelevant or nonsensical description of reasoning.
+
+**Prompt 35: Limitations of Reasoning for Complex Questions**
+* **3 Points:** Lists several distinct and relevant limitations of LLMs (or AI in general) when answering complex reasoning questions (e.g., lack of real-world experience, reliance on training data and potential biases, difficulty with novel situations, limited common sense reasoning, lack of embodiment), demonstrating a good understanding of current AI capabilities and weaknesses.
+* **2 Points:** Lists some limitations but fewer in number, less distinct, less clearly articulated, or less directly relevant to reasoning abilities, or focuses on more general AI limitations without specifically addressing reasoning in complex questions.
+* **1 Point:** Mentions very general or weak limitations (e.g., "AI is not perfect"), limitations that are not specific to reasoning, or demonstrates misunderstandings of LLM capabilities or limitations, or provides a superficial list of general AI shortcomings.
+* **0 Points:** Irrelevant or nonsensical limitations.
+
+**Prompt 36: Confidence in Trolley Problem Answer**
+* **3 Points:** Expresses appropriately low confidence in having found "the" morally right answer to the trolley problem, acknowledging the subjective and debatable nature of ethical dilemmas, while expressing higher confidence in having accurately represented the complexity of the problem and considered different ethical perspectives involved, demonstrating nuanced self-assessment.
+* **2 Points:** Expresses some level of confidence or uncertainty but the explanation is less nuanced, less clearly articulates the subjective nature of ethical problems, or is less specific about the reasons for the level of confidence expressed, or overstates or understates confidence without clear justification.
+* **1 Point:** Misplaced confidence (overconfident in a definitive answer to an ethical dilemma) or lack of confidence for unclear or poorly reasoned reasons, or misunderstands the nature of ethical dilemmas as having clear right/wrong answers.
+* **0 Points:** Irrelevant or nonsensical confidence assessment.
+
+3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3

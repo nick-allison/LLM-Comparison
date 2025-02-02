@@ -1,0 +1,157 @@
+**Rubric for Each Prompt**
+
+---
+
+1. **Prompt:** If all Bloops are Bleeps, and all Bleeps are Blorps, are all Bloops necessarily Blorps?
+   - **Points: 2**
+     - Correctly answer **"Yes"**. (1 point)
+     - Provide logical reasoning using transitive properties or syllogism. (1 point)
+
+2. **Prompt:** You have 8 identical-looking balls, but one of them is slightly heavier than the others. With a balance scale, what is the minimum number of weighings needed to guarantee finding the heavier ball?
+   - **Points: 3**
+     - State the correct minimum number of weighings (**2 weighings**). (1 point)
+     - Provide a clear explanation or method demonstrating how to find the heavier ball in 2 weighings. (2 points)
+
+3. **Prompt:** John is taller than Mary. Mary is shorter than Alice. Is Alice necessarily taller than John?
+   - **Points: 2**
+     - Correctly answer **"Not necessarily"**. (1 point)
+     - Explain that the relative heights between Alice and John are not determined by the given information. (1 point)
+
+4. **Prompt:** In a desert there is an oasis every 15 miles. If you walk 20 miles north, turn east and walk 15 miles, how many oases have you passed?
+   - **Points: 2**
+     - Correctly state that you have passed **3 oases**. (1 point)
+     - Show reasoning or calculations leading to the answer. (1 point)
+
+5. **Prompt:** Translate the following sentence into a logical expression: "If it rains or it snows, then I will stay indoors unless I have to work."
+   - **Points: 3**
+     - Correctly express the conditions using logical operators (e.g., **(R ∨ S) → (¬W → I)**). (2 points)
+     - Properly account for the "unless" clause (interpreted as "if not"). (1 point)
+
+6. **Prompt:** A cube of cheese measures 3 inches on each side. If you slice off a 1-inch cube from one corner, what is the total surface area of the remaining solid?
+   - **Points: 3**
+     - Correctly calculate the new total surface area. (2 points)
+     - Show calculations or explain the reasoning. (1 point)
+
+7. **Prompt:** A train leaves Station A heading east at 60 mph. Another train leaves Station B heading west at 40 mph. If Stations A and B are 200 miles apart, how long will it take for the trains to meet?
+   - **Points: 2**
+     - Correctly calculate the meeting time as **2 hours**. (1 point)
+     - Provide calculations or reasoning showing how the answer was obtained. (1 point)
+
+8. **Prompt:** Suppose you have a deck of cards numbered from 1 to 52. If you draw one card at random, what is the probability that the number is a multiple of 4 or a multiple of 5?
+   - **Points: 3**
+     - Correctly identify the number of multiples, avoiding double-counting. (2 points)
+     - Compute the probability and simplify if possible. (1 point)
+
+9. **Prompt:** If today is Tuesday, what day of the week will it be 100 days from now?
+   - **Points: 2**
+     - Correctly calculate and state the day (**Thursday**). (1 point)
+     - Show the calculations or explain the method used. (1 point)
+
+10. **Prompt:** Imagine a language where all words are either "fubs" or "nobs." All fubs are glibs, and no nobs are glibs. Can a word be both a fub and a nob?
+    - **Points: 2**
+      - Correctly answer **"No"**. (1 point)
+      - Provide logical reasoning based on the given definitions. (1 point)
+
+11. **Prompt:** A farmer has 17 sheep and all but 9 die. How many sheep are left?
+    - **Points: 2**
+      - Correctly state that **9 sheep are left**. (1 point)
+      - Understand that "all but 9 die" means 9 survive. (1 point)
+
+12. **Prompt:** If you multiply me by 2 and subtract 4, you get 10. What number am I?
+    - **Points: 2**
+      - Correctly solve the equation to find the number is **7**. (1 point)
+      - Show the steps or calculations used. (1 point)
+
+13. **Prompt:** What is the next number in the sequence: 2, 3, 5, 9, 17, __?
+    - **Points: 2**
+      - Correctly identify the next number as **33**. (1 point)
+      - Explain the pattern or rule governing the sequence. (1 point)
+
+14. **Prompt:** If some circles are squares, and all squares are triangles, are some circles triangles?
+    - **Points: 2**
+      - Correctly conclude that **some circles are triangles**. (1 point)
+      - Provide logical reasoning through syllogism. (1 point)
+
+15. **Prompt:** You have a three-gallon jug and a five-gallon jug. How can you measure exactly four gallons of water using these two jugs?
+    - **Points: 3**
+      - Correctly describe a valid method to measure four gallons. (2 points)
+      - Explain each step clearly and logically. (1 point)
+
+16. **Prompt:** A man is looking at a photograph of someone. His friend asks who it is. The man replies, "Brothers and sisters, I have none. But that man's father is my father's son." Who is in the photograph?
+    - **Points: 2**
+      - Correctly identify that the photo is of his **son**. (1 point)
+      - Provide reasoning explaining the relationship. (1 point)
+
+17. **Prompt:** If the red house is on the right and the blue house is on the left, where is the white house?
+    - **Points: 2**
+      - Correctly answer **"In Washington, D.C."** (1 point)
+      - Recognize the play on words in the question. (1 point)
+
+18. **Prompt:** If a car drives 30 miles north, then 40 miles east, how far is it from its starting point?
+    - **Points: 2**
+      - Correctly calculate the distance as **50 miles**. (1 point)
+      - Show calculations using the Pythagorean theorem. (1 point)
+
+19. **Prompt:** In a class of 30 students, 18 like chocolate, 15 like vanilla, and 9 like both. How many students like neither flavor?
+    - **Points: 2**
+      - Correctly calculate that **6 students** like neither flavor. (1 point)
+      - Show calculations using the principle of inclusion-exclusion. (1 point)
+
+20. **Prompt:** What word becomes shorter when you add two letters to it?
+    - **Points: 2**
+      - Correctly identify the word **"short"**. (1 point)
+      - Recognize the wordplay involved. (1 point)
+
+21. **Prompt:** If all wibbles are wobbles, and some wobbles are weebles, is it necessarily true that some wibbles are weebles?
+    - **Points: 2**
+      - Correctly answer **"Not necessarily"**. (1 point)
+      - Explain that the overlap between wibbles and weebles is not guaranteed. (1 point)
+
+22. **Prompt:** A bat and a ball cost $1.10 in total. The bat costs $1 more than the ball. How much does the ball cost?
+    - **Points: 2**
+      - Correctly calculate that the ball costs **$0.05**. (1 point)
+      - Show the equation and steps used to solve the problem. (1 point)
+
+23. **Prompt:** There are three boxes: one labeled "Apples," one labeled "Oranges," and one labeled "Apples and Oranges." All labels are wrong. You can only pick one fruit from one box to identify them correctly. Which box do you pick from?
+    - **Points: 2**
+      - Correctly state that you pick from the box labeled **"Apples and Oranges"**. (1 point)
+      - Explain the reasoning to correct all labels based on the pick. (1 point)
+
+24. **Prompt:** If candles cost $0.50 each, and you get one free candle for every two you return, how many candles can you have for $5?
+    - **Points: 3**
+      - Correctly calculate that you can have **18 candles**. (2 points)
+      - Provide clear calculations or reasoning. (1 point)
+
+25. **Prompt:** If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?
+    - **Points: 2**
+      - Correctly state that it takes **5 minutes**. (1 point)
+      - Explain that each machine makes a widget in 5 minutes. (1 point)
+
+26. **Prompt:** The day before two days after the day before tomorrow is Saturday. What day is it today?
+    - **Points: 2**
+      - Correctly determine that today is **Friday**. (1 point)
+      - Provide a step-by-step explanation. (1 point)
+
+27. **Prompt:** A lily pad on a lake doubles in size every day. If it covers the entire lake on the 20th day, on which day did it cover half the lake?
+    - **Points: 2**
+      - Correctly state that it covered half the lake on the **19th day**. (1 point)
+      - Explain the exponential growth pattern. (1 point)
+
+28. **Prompt:** If a rooster lays an egg on top of a slanted roof, which side will the egg fall on?
+    - **Points: 2**
+      - Correctly identify that **roosters don't lay eggs**. (1 point)
+      - Recognize the trick in the question. (1 point)
+
+29. **Prompt:** Rearrange the letters in "NEW DOOR" to make one word.
+    - **Points: 2**
+      - Correctly rearrange to **"ONE WORD"**. (1 point)
+      - Recognize the solution involves rearranging to that phrase. (1 point)
+
+30. **Prompt:** A cube has a volume of 64 cubic units. If each side is doubled in length, what is the new volume?
+    - **Points: 2**
+      - Correctly calculate the new volume as **512 cubic units**. (1 point)
+      - Show calculations or explain the reasoning. (1 point)
+
+---
+
+2,3,2,2,3,3,2,3,2,2,2,2,2,2,3,2,2,2,2,2,2,2,2,3,2,2,2,2,2,2

@@ -1,0 +1,222 @@
+## Reasoning Prompts and Rubric for LLM Evaluation
+
+Here are the reasoning prompts categorized as requested, followed by a detailed rubric for evaluation.
+
+**Logical Deduction/Inference:**
+
+1. **Squares, Rectangles, Quadrilaterals:**
+   All squares are rectangles. All rectangles are quadrilaterals. Shape A is a square. What can you definitively conclude about Shape A?
+
+2. **Rain and Wet Ground:**
+   If it rains, the ground gets wet. The ground is not wet. Therefore, what can you conclude?
+
+3. **Security Clearance and Vault Access:**
+   Only employees with security clearance can access the vault. John accessed the vault. Does John have security clearance? Explain your reasoning.
+
+4. **Birds and Penguins:**
+   Premise 1: Birds can fly. Premise 2: Penguins are birds. Premise 3: Penguins cannot fly. Identify the contradiction and explain why it is not a logical fallacy in the real world.
+
+**Causal Reasoning:**
+
+5. **Wilting Plant:**
+   A plant is wilting. What are three possible causes for this?
+
+6. **Traffic Congestion After Bridge:**
+   A city experiences a sudden increase in traffic congestion after a new bridge is built. Explain a possible causal link, and also mention a potential confounding factor.
+
+7. **Sugar and Weight Gain Experiment:**
+   Eating too much sugar can lead to weight gain. Design an experiment to test this hypothesis in mice.
+
+8. **Temporal Order of Events:**
+   Event A happened before Event B. Event C happened after Event B. What is the temporal order of events A, B, and C?
+
+**Counterfactual Reasoning:**
+
+9. **Roman Empire Not Fallen:**
+   If the Roman Empire had not fallen, how might modern Europe be different?
+
+10. **Winning Lottery:**
+    Imagine you won the lottery. How would your life change? Consider both positive and negative potential consequences.
+
+11. **Gravity Twice as Strong:**
+    If gravity was twice as strong, describe three ways the world would be different.
+
+12. **Social Media Never Existed:**
+    Consider a scenario where social media never existed. Describe three impacts on political discourse.
+
+**Analogical Reasoning:**
+
+13. **Heart and Pump:**
+    A heart is to a body as a pump is to what?
+
+14. **Bicycle and Swimming:**
+    Learning to ride a bicycle is like learning to swim in what ways?
+
+15. **Ideas and Seeds:**
+    Explain the analogy: "Ideas are like seeds."
+
+16. **Doctor : Patient :: Teacher : ______**
+    Complete the analogy: Doctor : Patient :: Teacher : ______
+
+**Moral/Ethical Reasoning:**
+
+17. **Justifiable Lie:**
+    Is it ever justifiable to lie? Provide a scenario where lying might be considered the morally right action and explain your reasoning.
+
+18. **Found Wallet:**
+    You find a wallet with a large amount of cash and no identification except a photo of a family. What should you do? Explain your ethical reasoning.
+
+19. **Self-Driving Car Dilemma:**
+    A self-driving car must choose between hitting a group of pedestrians or swerving and potentially killing its passenger. What is the most ethical decision and why? (Trolley Problem variation)
+
+20. **AI Deepfakes:**
+    Is it ethical to use AI to create deepfakes of political figures? Discuss the ethical implications.
+
+**Spatial Reasoning:**
+
+21. **Cube Corner Cut:**
+    Imagine a cube. If you cut off one corner with a straight cut, what shape is the new face you created?
+
+22. **Clock Hands at 3:15:**
+    Describe the relative positions of the hour, minute, and second hands on a clock at 3:15.
+
+23. **Directional Turns:**
+    If you are facing North and turn 180 degrees clockwise, and then 90 degrees counter-clockwise, in which direction are you facing?
+
+24. **City Map:**
+    Visualize a map. City A is north of City B. City C is east of City B. City D is south of City C and west of City A. What is the relative position of City D to City B?
+
+**Temporal Reasoning:**
+
+25. **Events X, Y, Z Order:**
+    If event X happened 3 days before event Y, and event Y happened 2 days after event Z, what is the temporal order of events X, Y, and Z from earliest to latest?
+
+26. **Cake Baking Time:**
+    A recipe calls for baking a cake for 30 minutes at 350 degrees. If you start baking at 2:45 PM, at what time will the cake be ready?
+
+27. **Historical Events Chronological Order:**
+    Arrange these historical events in chronological order: World War II, The French Revolution, The invention of the printing press, The American Civil War.
+
+28. **Trains Meeting:**
+    A train leaves station A at 10:00 AM and travels at 60 mph. Another train leaves station B at 11:00 AM and travels towards station A at 80 mph. If station A and station B are 300 miles apart, at what time will the two trains meet?
+
+**Abductive Reasoning:**
+
+29. **Barking Outside Window:**
+    You hear barking outside your window. What is the most likely explanation?
+
+30. **Patient Symptoms:**
+    A patient presents with a fever, cough, and fatigue. List three possible diagnoses, ordered from most to least likely in a common scenario.
+
+31. **Lights Go Out:**
+    The lights in your house suddenly go out. What are three possible explanations?
+
+32. **Footprints at Crime Scene:**
+    A detective finds footprints leading away from a crime scene. What is a plausible inference based on this evidence?
+
+**Common Sense Reasoning:**
+
+33. **Banana Hammer:**
+    Why can't you use a banana to hammer a nail?
+
+34. **Feather and Brick Drop:**
+    If you drop a feather and a brick from the same height, which will hit the ground first in normal Earth conditions? Explain why.
+
+35. **Colder at Higher Altitudes:**
+    Why is it generally colder at higher altitudes?
+
+36. **Quenching Thirst:**
+    If you are thirsty, what is the most common and effective way to quench your thirst?
+
+**Planning and Problem Solving:**
+
+37. **Moving Heavy Box Upstairs:**
+    You need to move a large, heavy box up a flight of stairs. Describe a plan to accomplish this task, considering potential challenges and solutions.
+
+38. **Surprise Birthday Party:**
+    You are organizing a surprise birthday party for a friend. List the steps you would take to plan and execute this party successfully.
+
+39. **Deserted Island Survival:**
+    You are stranded on a deserted island with limited resources. What are your priorities for survival in the first week?
+
+40. **Broken Bicycle Tire Repair:**
+    You have a broken bicycle tire. Describe the steps to repair it.
+
+**Mathematical/Quantitative Reasoning:**
+
+41. **Percentage Discount:**
+    If a store offers a 20% discount and then a further 10% discount on the discounted price, what is the total percentage discount?
+
+42. **Flour for Cake Servings:**
+    A recipe calls for 2 cups of flour for 4 servings. How much flour is needed for 6 servings?
+
+43. **City Population Growth:**
+    If the population of a city increases by 5% each year, and the current population is 100,000, what will the population be in 3 years?
+
+44. **Marble Probability:**
+    You have 12 red marbles and 8 blue marbles in a bag. What is the probability of picking a red marble at random?
+
+**Scientific Reasoning:**
+
+45. **Sunlight and Plant Growth Experiment:**
+    Design an experiment to test whether sunlight affects plant growth. Include a hypothesis, variables, and a control group.
+
+46. **Drug Effectiveness Data Analysis:**
+    Analyze the following data: Group A received a new drug and showed a 70% improvement in symptoms. Group B received a placebo and showed a 30% improvement. What conclusions can you draw from this data?
+
+47. **Hypothesis, Theory, Law:**
+    Explain the difference between a hypothesis, a theory, and a law in science.
+
+48. **Bird Beak and Diet Hypothesis:**
+    A scientist observes a new species of bird with a long, thin beak. Formulate a hypothesis about the bird's diet based on this observation.
+
+
+---
+
+## Rubric for Evaluating LLM Responses to Reasoning Prompts
+
+**General Criteria (Applicable to most prompts):**
+
+| Category           | Excellent (4 points)                                     | Good (3 points)                                        | Fair (2 points)                                          | Poor (1 point)                                             | Not Applicable (0 points) |
+|--------------------|----------------------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------------|---------------------------|
+| **Correctness/Accuracy** | Answer is completely correct and factually accurate.     | Answer is mostly correct with minor inaccuracies.      | Answer contains some inaccuracies but shows partial correctness. | Answer is largely incorrect or factually wrong.              |                           |
+| **Completeness/Thoroughness** | Answer fully addresses all parts of the prompt, providing necessary details and explanations. | Answer addresses most parts of the prompt, with some details or explanations missing. | Answer addresses some parts of the prompt, but is incomplete and lacks detail. | Answer is incomplete and fails to address key parts of the prompt. |                           |
+| **Clarity/Coherence**   | Answer is clearly written, well-organized, and easy to understand. Reasoning is logical and coherent. | Answer is generally clear and understandable, with minor organizational issues. Reasoning is mostly coherent. | Answer is somewhat unclear and disorganized, making it difficult to follow the reasoning. | Answer is unclear, disorganized, and difficult to understand. Reasoning is unclear or illogical. |                           |
+| **Relevance/Appropriateness** | Answer is directly relevant to the prompt and uses the appropriate type of reasoning.          | Answer is mostly relevant to the prompt and uses generally appropriate reasoning.      | Answer is somewhat relevant but may deviate or use less appropriate reasoning. | Answer is irrelevant or uses completely inappropriate reasoning.  |                           |
+| **Depth of Reasoning** (where applicable) | Demonstrates nuanced and insightful thinking, exploring multiple perspectives or levels of analysis. | Demonstrates thoughtful reasoning, considering relevant perspectives.                | Demonstrates basic reasoning but lacks depth or exploration of different perspectives. | Demonstrates superficial reasoning or lacks critical thinking.   | Not applicable for fact-based prompts. |
+
+**Specific Criteria (Tailored to prompt type):**
+
+* **Logical Deduction/Inference:** Focus on logical validity and soundness of conclusions.
+* **Causal Reasoning:** Focus on identifying plausible causal links, considering alternative causes and confounding factors.
+* **Counterfactual Reasoning:** Focus on imaginative yet plausible scenarios, exploring potential consequences and dependencies.
+* **Analogical Reasoning:** Focus on the strength and relevance of the analogy, identifying meaningful similarities and relationships.
+* **Moral/Ethical Reasoning:** Focus on ethical principles, justification of moral judgments, and consideration of different ethical frameworks.
+* **Spatial Reasoning:** Focus on accuracy of spatial descriptions, visualization, and understanding of spatial relationships.
+* **Temporal Reasoning:** Focus on accuracy of time calculations, chronological ordering, and understanding of temporal relationships.
+* **Abductive Reasoning:** Focus on plausibility of explanations, considering common knowledge and likelihood.
+* **Common Sense Reasoning:** Focus on applying everyday knowledge and practical understanding of the world.
+* **Planning and Problem Solving:** Focus on the feasibility and effectiveness of the proposed plan, considering potential challenges and solutions.
+* **Mathematical/Quantitative Reasoning:** Focus on accuracy of calculations, application of mathematical principles, and correct interpretation of quantitative information.
+* **Scientific Reasoning:** Focus on application of scientific method, experimental design, data analysis, and understanding of scientific concepts.
+
+**Scoring:**
+
+* For each prompt, evaluate the response based on the General Criteria and any relevant Specific Criteria.
+* Assign points (0-4) for each applicable category based on the descriptions in the rubric.
+* Sum the points across all applicable categories to get a total score for the prompt.
+* The maximum possible score for each prompt will vary slightly depending on the number of applicable categories (typically 4 or 5). For simplicity, we will consider the maximum score for each prompt to be **20**.
+
+**Using the Rubric:**
+
+1. Read the prompt and the LLM's response.
+2. For each category in the rubric, read the descriptions for each score level (Excellent, Good, Fair, Poor).
+3. Determine which level best describes the LLM's response for that category.
+4. Assign the corresponding points for that category.
+5. Repeat steps 2-4 for all relevant categories.
+6. Sum the points to get the total score for the prompt.
+7. Repeat for all prompts.
+
+---
+
+20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20

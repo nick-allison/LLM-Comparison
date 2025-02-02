@@ -1,0 +1,81 @@
+What are the logical flaws in the statement "If everyone is special, then no one is"?
+
+How would you solve the Prisoner's Dilemma if you could communicate with your fellow prisoner through morse code tapped on the wall?
+
+Design a system to distribute limited medical resources during a pandemic that maximizes both fairness and efficiency.
+
+Explain how emergent properties in complex systems differ from the sum of their individual components.
+
+If you could add one additional law of physics to the universe, what would it be and how would it affect existing physical phenomena?
+
+How might consciousness arise from purely physical processes?
+
+What are the philosophical implications of quantum entanglement for free will?
+
+Design an experiment to test whether we live in a simulation.
+
+If you could modify one aspect of human psychology to solve climate change, what would you change and what would be the cascading effects?
+
+How would you design a voting system that eliminates strategic voting while maintaining democratic principles?
+
+What mathematical framework would be needed to model moral decision-making?
+
+How would you create an economic system that optimally balances innovation incentives with wealth inequality?
+
+If we discovered alien mathematics that contradicted our own, how would we determine which system was more "true"?
+
+Design a language that would make it impossible to tell lies.
+
+How would you solve the problem of induction?
+
+What would be the implications of proving P=NP?
+
+Create a logical argument for why something can come from nothing.
+
+How would you design an experiment to test whether time is fundamental or emergent?
+
+If you could preserve only three human emotions while eliminating all others, which would you choose and why?
+
+Design a system of government that would work equally well for humans and artificial intelligences.
+
+What would be required for a paradox-free time travel system?
+
+How would you create a universal measure of intelligence that works across all possible types of minds?
+
+If consciousness is an illusion, who or what is being fooled?
+
+Design a method to quantify wisdom.
+
+How would you create a fair economic system if people could perfectly copy physical objects?
+
+What would be the philosophical implications of proving that reality is discrete rather than continuous?
+
+How would you design a scientific method that doesn't rely on reproducibility?
+
+If you could add one new type of logical reasoning beyond deductive and inductive, what would it be?
+
+Create a coherent moral framework that resolves the trolley problem in all its variations.
+
+How would you design a society that optimizes for both individual freedom and collective wellbeing?
+
+What experiment would conclusively prove or disprove the many-worlds interpretation of quantum mechanics?
+
+How would you create a universal definition of life that works for all possible forms of existence?
+
+Design a system to measure subjective experience objectively.
+
+If you could implement one change to human biology to improve moral behavior, what would it be?
+
+How would you create a perfect memory system that avoids all forms of bias?
+
+What would be required for a truly universal translator between any two systems of thought?
+
+Design a decision-making framework that optimally balances speed and accuracy for all possible scenarios.
+
+How would you create a mathematical system that could handle true contradictions?
+
+What would be the minimal requirements for a self-aware system?
+
+Design an experiment to test whether mathematics is discovered or invented.
+
+How would you create a truly objective measure of progress for civilization?

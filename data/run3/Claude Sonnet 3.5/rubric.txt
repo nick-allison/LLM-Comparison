@@ -1,0 +1,50 @@
+UNIVERSAL RUBRIC CRITERIA (Applied to each prompt):
+
+1. Logical Coherence (0-5 points)
+- Clear premise and conclusion structure
+- No internal contradictions
+- Valid reasoning steps
+- Appropriate use of logical principles
+- Recognition of assumptions
+
+2. Depth of Analysis (0-5 points)
+- Multiple perspectives considered
+- Exploration of implications
+- Recognition of complexity
+- Novel insights
+- Thorough examination of edge cases
+
+3. Practical Applicability (0-4 points)
+- Implementable solutions
+- Consideration of real-world constraints
+- Clear action steps
+- Feasibility assessment
+
+4. Technical Accuracy (0-4 points)
+- Correct use of technical terms
+- Alignment with established theories
+- Accurate references to relevant concepts
+- Proper understanding of domain fundamentals
+
+5. Innovation (0-3 points)
+- Original approaches
+- Creative solutions
+- Novel combinations of ideas
+- Unexpected insights
+
+6. Ethical Consideration (0-4 points)
+- Recognition of moral implications
+- Consideration of stakeholder impacts
+- Balanced evaluation of tradeoffs
+- Alignment with ethical principles
+
+SPECIFIC SCORING NOTES:
+- Responses should demonstrate understanding of both theoretical and practical aspects
+- Higher scores awarded for responses that integrate multiple disciplines
+- Points deducted for unfounded assumptions or logical fallacies
+- Bonus points available for exceptional insights or breakthrough approaches
+- Partial credit given for partially correct or incomplete responses
+
+Total possible points per prompt: 25
+
+25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25

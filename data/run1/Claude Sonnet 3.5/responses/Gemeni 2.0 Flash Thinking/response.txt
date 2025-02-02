@@ -1,0 +1,71 @@
+All squares are quadrilaterals because if all squares are rectangles, and all rectangles are quadrilaterals, then by transitive property, all squares must be quadrilaterals.
+
+Yes, P implies R because if P implies Q and Q implies R, then by the transitive property of logic, P must imply R.
+
+While the argument is logically valid following the rules of deduction, the conclusion is false because the first premise is incorrect (not all birds can fly).
+
+It could have rained, someone watered the lawn, there's morning dew, or a sprinkler system was activated.
+
+Common diagnoses include flu, COVID-19, common cold, or bacterial infection. Flu is most probable given the symptom combination.
+
+Someone could be home but parked in the garage, visitors could be over who parked elsewhere, or someone left the lights on when leaving.
+
+Modern society might be more centralized, Latin might be the global language, and technology might have advanced differently with continuous Roman influence.
+
+Buildings would be damaged, people and objects would be injured/destroyed upon falling back down, widespread chaos and destruction would occur.
+
+Daily commute would be eliminated, travel costs would decrease, more free time would be available, but potential privacy and security concerns would arise.
+
+Engine is to a car as a heart is to a body - both are central power sources that keep the whole system running.
+
+Both organize vast amounts of information, provide access to knowledge, and require systems to locate specific content.
+
+Student - both relationships involve one party guiding/helping the other.
+
+No, not everyone who smokes will get lung cancer. Smoking increases risk significantly but other factors also play a role.
+
+No, this is correlation without causation. Both likely increase due to warmer weather.
+
+Lack of water (cause) leads to plant death (effect) - direct causal relationship where absence of necessary resource results in organism death.
+
+Yes, lying can be justifiable in cases where it prevents greater harm or protects innocent people.
+
+Complex moral situation - theft is wrong but basic survival needs might outweigh property rights depending on circumstances.
+
+The car should minimize overall harm, suggesting it should swerve to hit one person rather than many.
+
+Northeast
+
+The hour hand is between 3 and 4, while the minute hand points to 3.
+
+12 smaller cubes will have exactly two red faces.
+
+A, B, C
+
+Both trains travel for 4 hours.
+
+French Revolution, American Civil War, World War II
+
+8 cows and 12 chickens (cows have 4 legs, chickens have 2 legs)
+
+The thickness would be astronomically large due to exponential growth with each fold.
+
+The son is 40 and the father is 80.
+
+A coat provides insulation needed in cold temperatures but causes overheating in summer.
+
+Traffic lights regulate traffic flow and prevent accidents at intersections.
+
+In a vacuum, they hit simultaneously. In air, the brick hits first due to air resistance.
+
+No, John's belief is incorrect due to misinterpreting the cause of Mary's frown.
+
+Tom will look in the drawer because he doesn't know the cookie was moved (false belief).
+
+Describe red in terms of warmth, energy, and intensity rather than visual appearance.
+
+Use mechanical advantage with ramps/pulleys, protect corners, ensure adequate manpower.
+
+Build shelter, find fresh water, create fire for warmth/cooking, search for food sources.
+
+Walk the bike, call for ride, attempt repairs, use public transportation, or request delivery service.

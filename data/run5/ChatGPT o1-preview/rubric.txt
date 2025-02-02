@@ -1,0 +1,683 @@
+**Rubric for Prompt 1:**
+
+*Criteria:*
+
+- **Correct Answer (2 points):** The time it would take 100 machines to make 100 widgets is **5 minutes**.
+- **Explanation (1 point):** Explains that each machine makes a widget in 5 minutes, so regardless of the number of machines, it takes 5 minutes to make a widget per machine.
+
+*Total Points:* 3
+
+---
+
+**Rubric for Prompt 2:**
+
+*Criteria:*
+
+- **Correct Time Calculated (2 points):** The trains will meet in **2 hours**.
+- **Calculation Steps (1 point):** Provides calculation: Relative speed is 60 mph + 40 mph = 100 mph; Time = Distance / Speed = 200 miles / 100 mph = 2 hours.
+
+*Total Points:* 3
+
+---
+
+**Rubric for Prompt 3:**
+
+*Criteria:*
+
+- **Correct Solution (1 point):** The value of x is **-13**.
+- **Algebraic Steps (2 points):** Shows all steps:
+  - Expand: 2x - 6 = x + 7
+  - Subtract x from both sides: x - 6 = 7
+  - Add 6 to both sides: x = 13
+
+*Total Points:* 3
+
+---
+
+**Rubric for Prompt 4:**
+
+*Criteria:*
+
+- **Correct Next Number (2 points):** The next number is **13**.
+- **Explanation (1 point):** Identifies the sequence as prime numbers: 2, 3, 5, 7, 11, **13**.
+
+*Total Points:* 3
+
+---
+
+**Rubric for Prompt 5:**
+
+*Criteria:*
+
+- **Correct Number of Cows (2 points):** There are **20 cows**.
+- **Problem Setup and Solution (2 points):**
+  - Let c = number of cows, h = number of chickens.
+  - Heads: c + h = 30
+  - Legs: 4c + 2h = 100
+  - Solve the system of equations.
+
+*Total Points:* 4
+
+---
+
+**Rubric for Prompt 6:**
+
+*Criteria:*
+
+- **Correct Average Speed (2 points):** The average speed is **53.33 mph**.
+- **Calculation Steps (2 points):**
+  - Total distance = (50 mph * 2 hrs) + (60 mph * 1 hr) = 160 miles.
+  - Total time = 2 hrs + 1 hr = 3 hrs.
+  - Average speed = Total distance / Total time.
+
+*Total Points:* 4
+
+---
+
+**Rubric for Prompt 7:**
+
+*Criteria:*
+
+- **Correct Conclusion (1 point):** Yes, all bloops are blups.
+- **Logical Explanation (2 points):** Uses transitive property: If all bloops are blips and all blips are blups, then all bloops are blups.
+
+*Total Points:* 3
+
+---
+
+**Rubric for Prompt 8:**
+
+*Criteria:*
+
+- **Correct Inference (1 point):** There exists at least one raven that is not black.
+- **Explanation (2 points):** Understanding that the negation of "All ravens are black" means "At least one raven is not black."
+
+*Total Points:* 3
+
+---
+
+**Rubric for Prompt 9:**
+
+*Criteria:*
+
+- **Correct Day Identified (2 points):** Today is **Tuesday**.
+- **Reasoning (1 point):** Explains that if today is not Monday and tomorrow is not Wednesday, then today must be Tuesday.
+
+*Total Points:* 3
+
+---
+
+**Rubric for Prompt 10:**
+
+*Criteria:*
+
+- **Correct Conclusion (1 point):** No, we cannot conclude John is wearing a hat.
+- **Explanation (2 points):** Just because everyone wearing a hat is also wearing gloves doesn't mean everyone wearing gloves is wearing a hat.
+
+*Total Points:* 3
+
+---
+
+**Rubric for Prompt 11:**
+
+*Criteria:*
+
+- **Correct Ordering (2 points):** Alice is the tallest.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 12:**
+
+*Criteria:*
+
+- **Valid Reasons Provided (2 points):** Examples include: Protection from rain, shade from the sun.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 13:**
+
+*Criteria:*
+
+- **Likely Outcome Identified (2 points):** The glass is likely to break.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 14:**
+
+*Criteria:*
+
+- **Correct Season (2 points):** It is likely to be **winter**.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 15:**
+
+*Criteria:*
+
+- **Reason Explained (2 points):** To keep food fresh longer by slowing bacterial growth.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 16:**
+
+*Criteria:*
+
+- **Possible Causes Identified (2 points):** It may have rained overnight; dew formed.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 17:**
+
+*Criteria:*
+
+- **Correct Direction (2 points):** You are now facing **east**.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 18:**
+
+*Criteria:*
+
+- **Correct Number of Edges (2 points):** A cube has **12 edges**.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 19:**
+
+*Criteria:*
+
+- **Correct Volume Calculated (2 points):** Volume is **150 cubic meters**.
+- **Calculation:** Length × Width × Height = 10 m × 5 m × 3 m.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 20:**
+
+*Criteria:*
+
+- **Relative Position Explained (3 points):** You are back at or near the starting point; depending on starting location, may be slightly east.
+
+*Total Points:* 3
+
+---
+
+**Rubric for Prompt 21:**
+
+*Criteria:*
+
+- **Possible Outcome Identified (2 points):** You might oversleep or be late the next morning.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 22:**
+
+*Criteria:*
+
+- **Likely Effect Explained (2 points):** The plant will wilt and eventually die due to dehydration.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 23:**
+
+*Criteria:*
+
+- **Explanation of Phenomenon (3 points):** Salt lowers the freezing point of water, causing ice to melt faster.
+
+*Total Points:* 3
+
+---
+
+**Rubric for Prompt 24:**
+
+*Criteria:*
+
+- **Effects Listed (3 points):** Examples include habitat loss, increased greenhouse gases, soil erosion.
+
+*Total Points:* 3
+
+---
+
+**Rubric for Prompt 25:**
+
+*Criteria:*
+
+- **Reaction Described (2 points):** A chemical reaction producing carbon dioxide gas occurs, causing fizzing or bubbling.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 26:**
+
+*Criteria:*
+
+- **Correct Analogy (2 points):** Foot is to **shoe**.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 27:**
+
+*Criteria:*
+
+- **Correct Analogy (2 points):** Fish is to **water**.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 28:**
+
+*Criteria:*
+
+- **Correct Analogy (2 points):** Hat is to **head**.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 29:**
+
+*Criteria:*
+
+- **Correct Analogy (2 points):** Ear is to **hearing**.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 30:**
+
+*Criteria:*
+
+- **Correct Analogy (2 points):** House is to **neighborhood** or **city**.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 31:**
+
+*Criteria:*
+
+- **Correct Number of Overlaps (3 points):** The hands overlap **22 times** in 24 hours.
+- **Explanation of Calculation (if provided):** Correct method for determining overlaps.
+
+*Total Points:* 3
+
+---
+
+**Rubric for Prompt 32:**
+
+*Criteria:*
+
+- **Correct Method Explained (4 points):** Detailed steps to measure exactly 4 liters using the jugs.
+
+*Total Points:* 4
+
+---
+
+**Rubric for Prompt 33:**
+
+*Criteria:*
+
+- **Correct Procedure (4 points):** Explains how to correctly label all boxes by picking one fruit from one box.
+
+*Total Points:* 4
+
+---
+
+**Rubric for Prompt 34:**
+
+*Criteria:*
+
+- **Correct Identity (3 points):** The photograph is of his **son**.
+
+*Total Points:* 3
+
+---
+
+**Rubric for Prompt 35:**
+
+*Criteria:*
+
+- **Correct Word (2 points):** The word is **short**.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 36:**
+
+*Criteria:*
+
+- **Correct Answer (2 points):** An **echo**.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 37:**
+
+*Criteria:*
+
+- **Correct Answer (2 points):** Four and five are **nine**.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 38:**
+
+*Criteria:*
+
+- **Correct Answer (2 points):** Your **left hand**.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 39:**
+
+*Criteria:*
+
+- **Correct Answer (2 points):** **Silence**.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 40:**
+
+*Criteria:*
+
+- **Correct Conclusion (2 points):** Yes, whales are warm-blooded.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 41:**
+
+*Criteria:*
+
+- **Correct Logical Conclusion (2 points):** Yes, A implies C.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 42:**
+
+*Criteria:*
+
+- **Correct Conclusion (2 points):** It is **sunny**.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 43:**
+
+*Criteria:*
+
+- **Correct Conclusion (2 points):** No, we cannot conclude that no cats are animals.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 44:**
+
+*Criteria:*
+
+- **Reasonable Prediction (2 points):** Yes, it is expected to rise tomorrow, barring unforeseen events.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 45:**
+
+*Criteria:*
+
+- **Hypothesis Stated (2 points):** All swans may be white; however, this is based on observed samples.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 46:**
+
+*Criteria:*
+
+- **Correct Conclusion (2 points):** No, person A is not always taller than person B outside those groups.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 47:**
+
+*Criteria:*
+
+- **Correct Assessment (2 points):** No, this is not a valid conclusion; it's a hasty generalization.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 48:**
+
+*Criteria:*
+
+- **Possible Causes Listed (2 points):** It may have rained; dew formed overnight; sprinkler system activated.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 49:**
+
+*Criteria:*
+
+- **Possible Explanations (2 points):** Power outage; planned energy conservation; everyone is asleep.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 50:**
+
+*Criteria:*
+
+- **Inference Made (2 points):** A break-in may have occurred; someone entered through the window.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 51:**
+
+*Criteria:*
+
+- **Plausible Explanation (2 points):** There may be a fire; emergency services are responding.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 52:**
+
+*Criteria:*
+
+- **Correct Identification (2 points):** Jane met **Mary** on her way to the store.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 53:**
+
+*Criteria:*
+
+- **Correct Conclusion (2 points):** Not necessarily; happiness of characters doesn't define the genre as a comedy.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 54:**
+
+*Criteria:*
+
+- **Correct Reference (2 points):** The **brown suitcase** is too small.
+
+*Total Points:* 2
+
+---
+
+**Rubric for Prompt 55:**
+
+*Criteria:*
+
+- **Ethical Discussion (4 points):** Provides a balanced analysis of the ethics of lying to protect feelings, considering honesty versus compassion.
+
+*Total Points:* 4
+
+---
+
+**Rubric for Prompt 56:**
+
+*Criteria:*
+
+- **Justification Explained (4 points):** Discusses moral dilemmas, necessity, and ethical considerations of stealing to feed a starving family.
+
+*Total Points:* 4
+
+---
+
+**Rubric for Prompt 57:**
+
+*Criteria:*
+
+- **Analysis Provided (5 points):** Evaluates ethical frameworks for autonomous cars prioritizing safety, discusses potential solutions and implications.
+
+*Total Points:* 5
+
+---
+
+**Rubric for Prompt 58:**
+
+*Criteria:*
+
+- **Detailed Steps Outlined (5 points):** Includes planning travel dates, booking flights, accommodations, visas, packing, and itinerary.
+
+*Total Points:* 5
+
+---
+
+**Rubric for Prompt 59:**
+
+*Criteria:*
+
+- **Organization Plan (4 points):** Outlines steps such as choosing a date, inviting guests, arranging venue, decorations, and keeping it a surprise.
+
+*Total Points:* 4
+
+---
+
+**Rubric for Prompt 60:**
+
+*Criteria:*
+
+- **Diet Plan Developed (5 points):** Includes balanced nutrition, caloric deficit, protein intake, exercise recommendations.
+
+*Total Points:* 5
+
+---
+
+**Rubric for Prompt 61:**
+
+*Criteria:*
+
+- **Thought Process Explained (5 points):** Breaks down problem-solving steps, demonstrates logical reasoning and methodology.
+
+*Total Points:* 5
+
+---
+
+**Rubric for Prompt 62:**
+
+*Criteria:*
+
+- **Error-Checking Methods (3 points):** Describes techniques like reviewing work, cross-verification, and seeking feedback.
+
+*Total Points:* 3
+
+---
+
+**Rubric for Prompt 63:**
+
+*Criteria:*
+
+- **Self-Reflection Provided (3 points):** Identifies personal biases and explains how they might impact decisions.
+
+*Total Points:* 3
+
+---
+
+**Rubric for Prompt 64:**
+
+*Criteria:*
+
+- **Impact Analysis (4 points):** Discusses effects on life forms, structures, atmospheric conditions, and potential evolutionary changes.
+
+*Total Points:* 4
+
+---
+
+**Rubric for Prompt 65:**
+
+*Criteria:*
+
+- **Consequences Explored (4 points):** Describes how human life would change, impacts on food consumption, energy, and societal structure.
+
+*Total Points:* 4
+
+---
+
+**Rubric for Prompt 66:**
+
+*Criteria:*
+
+- **World Without Internet (5 points):** Provides a comprehensive analysis of impacts on communication, economy, technology, and daily life.
+
+*Total Points:* 5
+
+---
+
+3,3,3,3,4,4,3,3,3,3,2,2,2,2,2,2,2,2,2,3,2,2,3,3,2,2,2,2,2,2,3,4,4,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,4,4,5,5,4,5,5,3,3,4,4,5

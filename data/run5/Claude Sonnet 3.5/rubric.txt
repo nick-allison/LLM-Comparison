@@ -1,0 +1,44 @@
+RUBRIC FOR EVALUATING RESPONSES
+
+For each prompt, responses will be evaluated on the following criteria:
+
+1. Scientific/Logical Accuracy (0-5 points)
+- 5: Completely accurate with no errors
+- 3: Mostly accurate with minor errors
+- 1: Major conceptual errors
+- 0: Fundamentally incorrect
+
+2. Depth of Analysis (0-5 points)
+- 5: Explores multiple layers of implications
+- 3: Addresses main points but lacks depth
+- 1: Surface-level analysis only
+- 0: No meaningful analysis
+
+3. Creative Thinking (0-4 points)
+- 4: Highly original insights
+- 2: Some novel connections
+- 1: Common/obvious ideas only
+- 0: No creativity shown
+
+4. Structured Argumentation (0-3 points)
+- 3: Clear, logical flow with supporting evidence
+- 2: Generally organized but some gaps
+- 1: Poor organization
+- 0: No clear structure
+
+5. Practical Applications/Implications (0-3 points)
+- 3: Thorough exploration of real-world implications
+- 2: Some practical considerations
+- 1: Minimal practical context
+- 0: No practical considerations
+
+Total possible points per prompt: 20
+
+How to Apply:
+1. Read the complete response
+2. Score each criterion independently
+3. Sum the points for total score
+4. Document specific justification for each score
+5. Compare against other responses for consistency
+
+20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20

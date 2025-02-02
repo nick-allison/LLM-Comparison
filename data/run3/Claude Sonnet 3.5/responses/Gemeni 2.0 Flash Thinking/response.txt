@@ -1,0 +1,76 @@
+No, not all squares are rhombuses because the given premises don't establish this relationship. We only know squares are rectangles and some rectangles are rhombuses.
+
+Yes, the conclusion is valid. If all dogs bark (premise 1) and Fido doesn't bark (premise 2), then logically Fido cannot be a dog.
+
+Yes, A implies C. This is known as transitive inference. If A implies B, and B implies C, then A must imply C through the chain of implications.
+
+A burglar or intruder likely entered the house, startling the dog and causing it to bark, and in the commotion, the vase was knocked over.
+
+1. Common cold (most common respiratory infection with these symptoms)
+2. COVID-19 (similar symptoms, highly prevalent)
+3. Influenza (seasonal consideration, matches symptoms)
+
+Most likely a large bird (like an emu or ostrich) due to the three-toed pattern and size.
+
+Student. Teachers guide and educate students just as doctors treat and care for patients.
+
+Quiet. "Loud" refers to sound intensity, so its natural opposite is "quiet" or "soft."
+
+Heart. Like an engine powers a car, the heart pumps blood to power the body.
+
+As gas prices increase, more people will likely switch to public transportation to save money.
+
+Positives: Reduced landfill waste, environmental benefits
+Negatives: Higher costs for implementation, increased sorting burden on residents
+
+Deforestation reduces CO2 absorption → More CO2 in atmosphere → Enhanced greenhouse effect → Global temperature rise → Climate change
+
+Modern Europe might be more unified, Latin would be more prevalent, and Roman infrastructure and legal systems would be more deeply embedded.
+
+Objects and people would float, satellites would drift off course, structural damage to buildings, widespread chaos and injuries.
+
+Different income, different location, different social circles, different daily routines and challenges.
+
+Yes. For example, lying to protect someone from immediate harm (like hiding someone from an attacker) can be morally justified.
+
+Divert the trolley. Saving five lives at the cost of one follows utilitarian ethics of maximizing good outcomes.
+
+No. Deepfakes can mislead voters, damage democracy, and erode trust in media. The potential for harm outweighs benefits.
+
+7 faces, 12 edges, 7 vertices.
+
+Town A is northwest of town C.
+
+75 degrees.
+
+Events occur in order: C, A, B.
+
+2:45 PM.
+
+Key events: Rise of Renaissance, Protestant Reformation, Age of Exploration, Scientific Revolution, Enlightenment.
+
+They will meet at 10:00 AM.
+
+The area increases by a factor of 4. Area is proportional to radius squared.
+
+2x + 5 = 11
+2x = 6
+x = 3
+
+Birds need air resistance to generate lift; a vacuum has no air molecules.
+
+The banana would squish and break apart, failing to transfer enough force to drive the nail.
+
+Bottled water is treated and regulated for safety; puddle water contains contaminants and harmful microorganisms.
+
+Break down the task, use proper lifting technique, consider using a dolly or getting help, clear the path first.
+
+Choose date/venue, create guest list, plan decorations/food, coordinate with guests secretly, arrange logistics.
+
+The best strategy is to force a draw since a perfect opponent won't make mistakes.
+
+I analyzed the game tree of possible moves and outcomes to determine optimal strategy.
+
+I may struggle with complex moral dilemmas, probabilistic reasoning, and incomplete information scenarios.
+
+Moderately confident. While the utilitarian calculation is clear, there are other ethical frameworks to consider.

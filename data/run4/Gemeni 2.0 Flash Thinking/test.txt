@@ -1,0 +1,39 @@
+All squares are rectangles. Some rectangles are rhombuses. Are all squares rhombuses? Explain your reasoning.
+If A implies B, and B implies C, does A imply C? Explain why or why not and give an example.
+Premise 1: If it rains, the ground is wet. Premise 2: The ground is wet. Conclusion: It rained. Is this conclusion valid? Why or why not?
+A city implemented a new traffic light system and noticed a decrease in traffic accidents. Is it safe to conclude that the new traffic light system caused the decrease in accidents? Explain your reasoning and consider other possible factors.
+Eating a certain type of berry has been correlated with increased longevity in a study. Does this mean eating these berries will definitely make you live longer? Explain your answer.
+If a plant is given fertilizer, it grows taller. What other factors could influence the plant's growth besides fertilizer?
+If World War II had never happened, how might the world be different today in terms of technology, global politics, and culture?
+Imagine you decided to take a different route to work this morning. What are some possible consequences, both positive and negative, of that decision?
+If humans had evolved to fly naturally, how might our societies and cultures be structured differently?
+A heart is to a body as a ______ is to a car. Complete the analogy and explain your choice.
+Explain the analogy between the internet and a nervous system.
+"Ideas are like seeds." Explain this analogy and its implications.
+If you rotate the letter 'P' 180 degrees clockwise, and then reflect it across a vertical axis, what letter does it resemble?
+Imagine a cube. If you cut off one corner, how many faces and edges does the resulting shape have?
+Describe the spatial relationship between the Earth, the Sun, and the Moon during a solar eclipse.
+Arrange the following events in chronological order: the invention of the printing press, the discovery of penicillin, the fall of the Roman Empire, the invention of the internet.
+If event A happened before event B, and event B happened after event C, what is the temporal relationship between event A and event C?
+Explain the concept of time dilation in Einstein's theory of relativity.
+Is it ever justifiable to lie? Under what circumstances, if any?
+A company is developing AI technology that could automate many jobs. What ethical responsibilities does the company have to society?
+Consider the trolley problem. Is it morally permissible to pull the lever? Explain your reasoning.
+You see smoke coming from under the door of your apartment building. What is the most likely cause and what should you do?
+If you drop a feather and a brick from the same height on Earth, which will hit the ground first? Explain why.
+Why is it generally colder in the mountains than at sea level?
+Solve for x: 2x + 5 = 11. Explain your steps.
+What is the area of a circle with a radius of 5 units? Show your work.
+A train leaves Chicago at 8 am traveling at 60 mph towards New York. Another train leaves New York at 9 am traveling at 80 mph towards Chicago. If the distance between Chicago and New York is 800 miles, at what time will the two trains meet?
+Explain the scientific method in your own words.
+What is the difference between a hypothesis and a theory in science?
+Describe the process of photosynthesis in plants.
+You need to move a large piano up to the fifth floor of an apartment building, but the elevator is broken. Describe a plan to accomplish this.
+You are organizing a surprise birthday party for a friend. What are the key steps you need to take to ensure it's successful?
+You are stranded on a desert island with limited resources. How would you prioritize your needs to survive and signal for help?
+John believes Mary thinks the store is closed. However, Mary knows the store is open. If John asks Mary if the store is open, what will Mary say and why?
+Sarah sees Tom hide a cookie in a drawer. Then Sarah leaves the room, and Tom moves the cookie to a different cupboard. When Sarah returns, where will she look for the cookie first? Why?
+Explain the concept of sarcasm and why it requires understanding theory of mind.
+Which of the following does not belong: apple, banana, orange, carrot? Explain your reasoning.
+Complete the sequence: 2, 4, 8, 16, ___. Explain the pattern.
+What is the common theme or concept that connects the following words: justice, freedom, equality?

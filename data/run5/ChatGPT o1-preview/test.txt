@@ -1,0 +1,66 @@
+If five machines can make five widgets in five minutes, how long would it take 100 machines to make 100 widgets?
+A train leaves Station A heading east at 60 mph. Another train leaves Station B heading west at 40 mph on the same track. If Station A and Station B are 200 miles apart, how long before the trains meet?
+Solve for x: 2(x - 3) = x + 7.
+What is the next number in the sequence: 2, 3, 5, 7, 11, ?
+A farmer has cows and chickens. There are 30 heads and 100 legs. How many cows are there?
+If a car travels at 50 mph for 2 hours, then at 60 mph for 1 hour, what is the average speed of the car for the entire trip?
+All bloops are blips. All blips are blups. Therefore, are all bloops blups?
+If the statement "All ravens are black" is false, what can we infer?
+If today is not Monday and tomorrow is not Wednesday, what day is today?
+In a group of people, everyone who is wearing a hat is also wearing gloves. John is wearing gloves. Can we conclude that John is wearing a hat?
+If Alice is taller than Bob and Bob is taller than Carol, who is the tallest?
+Why might someone bring an umbrella to a picnic?
+If you drop a glass on a concrete floor, what is likely to happen?
+If it is snowing, what season is it likely to be?
+Why do people refrigerate food?
+If you wake up and see that the ground is wet, what might have happened?
+If you're facing north and turn 90 degrees to your right, what direction are you facing now?
+A cube has how many edges?
+If a room is 10 meters long, 5 meters wide, and 3 meters high, what is its volume?
+If you walk south for 2 km, east for 2 km, and then north for 2 km, where are you relative to your starting point?
+What might happen if you forget to set your alarm before going to bed?
+If a plant doesn't receive water, what will happen?
+Why does adding salt to ice make it melt faster?
+What are possible effects of deforestation?
+If I mix vinegar and baking soda, what occurs?
+Hand is to glove as foot is to what?
+Bird is to air as fish is to what?
+Sock is to foot as hat is to what?
+Eye is to seeing as ear is to what?
+Tree is to forest as house is to what?
+How many times do the hour and minute hands of a clock overlap in 24 hours?
+You have a 3-liter jug and a 5-liter jug. How can you measure exactly 4 liters of water?
+There are three boxes, one labeled "Apples," one labeled "Oranges," and one labeled "Apples and Oranges." All labels are incorrect. You can pick one fruit from one box. How can you correctly label all the boxes?
+A man is looking at a photograph of someone. His friend asks who it is. The man replies, "Brothers and sisters I have none, but that man's father is my father's son." Who is in the photograph?
+What five-letter word becomes shorter when you add two letters to it?
+I speak without a mouth and hear without ears. I have nobody, but I come alive with wind. What am I?
+If two's company and three's a crowd, what are four and five?
+What can you hold in your right hand, but not in your left hand?
+What disappears as soon as you say its name?
+All mammals are warm-blooded. All whales are mammals. Are whales warm-blooded?
+If A implies B and B implies C, does A imply C?
+Either it is raining, or it is sunny. It is not raining. What can we conclude?
+No cats are dogs. All dogs are animals. Can we conclude that no cats are animals?
+The sun has risen every morning in recorded history. Will it rise tomorrow?
+All observed swans are white. What can we hypothesize about swans?
+Person A is taller than person B in five different groups. Is person A always taller than person B?
+After seeing five red cars pass by, you predict the next car will be red. Is this conclusion valid?
+The grass is wet in the morning. What might be the cause?
+The lights are off in all the houses on the street. What could have happened?
+A window is broken, and there are footprints inside the house. What might have occurred?
+You hear sirens and see smoke in the distance. What is a plausible explanation?
+Read the following passage and answer the question: "Jane left her house and went to the store. On the way, she met Mary. They talked for a while before Jane continued to the store." Who did Jane meet on her way to the store?
+If all the characters in a story are happy, can we conclude that the story is a comedy?
+In the sentence "The trophy doesn't fit in the brown suitcase because it is too small," what is too small?
+Is it ethical to lie to protect someone's feelings? Discuss.
+If stealing food is necessary to feed a starving family, is it justified?
+Should autonomous cars prioritize the safety of passengers or pedestrians in an unavoidable crash situation?
+Describe the steps you would take to plan a trip from New York to Paris.
+How would you organize a surprise birthday party for a friend?
+Plan a diet for someone looking to lose weight while maintaining muscle mass.
+Explain the thought process behind solving a complex math problem.
+How do you check for errors in your reasoning?
+Reflect on how your personal biases might affect your decision-making.
+If gravity were weaker, how might life on Earth be different?
+What would happen if humans could photosynthesize like plants?
+Imagine if the internet had never been invented. How would the world be different today?

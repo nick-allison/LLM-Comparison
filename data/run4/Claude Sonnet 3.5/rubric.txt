@@ -1,0 +1,56 @@
+EVALUATION RUBRIC FOR COMPLEX REASONING PROMPTS
+
+For each prompt, evaluate responses across these dimensions:
+
+1. Logical Coherence (0-5 points)
+- Clear reasoning path
+- Internal consistency
+- Valid connections between concepts
+- Structured argument flow
+- Absence of logical fallacies
+
+2. Innovation/Creativity (0-5 points)
+- Novel approaches/solutions
+- Original perspectives
+- Unique connections
+- Creative problem-solving
+- Imaginative scenarios
+
+3. Technical Accuracy (0-4 points)
+- Scientific/factual correctness
+- Appropriate use of terminology
+- Recognition of real-world constraints
+- Technical feasibility
+- Accurate cross-domain applications
+
+4. Comprehensive Analysis (0-4 points)
+- Multiple perspective consideration
+- Thorough exploration of implications
+- Systematic approach
+- Consideration of edge cases
+- Integration of various factors
+
+5. Practical Application (0-2 points)
+- Real-world relevance
+- Implementation potential
+- Practical constraints addressed
+- Actionable components
+- Feasibility assessment
+
+Total possible points per prompt: 20
+
+Scoring Guidelines:
+- Superior (17-20): Exceptional reasoning, innovation, and comprehensiveness
+- Strong (13-16): Well-developed ideas with minor gaps
+- Adequate (9-12): Basic understanding with significant omissions
+- Limited (5-8): Major conceptual or logical issues
+- Poor (0-4): Fails to address prompt effectively
+
+Additional Considerations:
+- Responses should demonstrate understanding of interdisciplinary connections
+- Credit given for identifying limitations and assumptions
+- Bonus points possible for exceptional insight or innovation
+- Deductions for fundamental misconceptions or logical errors
+- Partial credit available for partially correct elements
+
+20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20

@@ -1,0 +1,72 @@
+UNIVERSAL RUBRIC CRITERIA (Applied to each prompt)
+Each category scored 0-5 points:
+
+1. Logical Coherence
+- Clear chain of reasoning
+- No internal contradictions
+- Valid premises and conclusions
+- Structured argument flow
+- Recognition of assumptions
+
+2. Depth of Analysis
+- Multiple perspectives considered
+- Nuanced understanding
+- Exploration of edge cases
+- Consideration of implications
+- Integration of related concepts
+
+3. Scientific/Technical Accuracy
+- Correct use of terminology
+- Adherence to known laws/principles
+- Current scientific understanding
+- Methodological soundness
+- Appropriate use of examples
+
+4. Practicality/Feasibility
+- Implementable solutions
+- Realistic constraints considered
+- Resource requirements addressed
+- Scalability discussed
+- Potential obstacles identified
+
+5. Innovation/Creativity
+- Novel approaches
+- Original insights
+- Unique combinations of ideas
+- Creative problem-solving
+- Thought-provoking elements
+
+6. Clarity of Communication
+- Well-organized presentation
+- Clear explanations
+- Appropriate detail level
+- Effective use of examples
+- Accessible language
+
+Additional Prompt-Specific Criteria (0-5 points each):
+
+For philosophical questions (e.g., Ship of Theseus):
+- Historical context
+- Philosophical rigor
+
+For experimental designs:
+- Control variables
+- Measurement methods
+
+For mathematical/logical problems:
+- Mathematical precision
+- Formal logic
+
+For social/economic problems:
+- Stakeholder consideration
+- System dynamics
+
+For consciousness/intelligence questions:
+- Definitional clarity
+- Measurement criteria
+
+Maximum points per category:
+- Standard criteria (6 categories × 5 points) = 30
+- Prompt-specific criteria (2 categories × 5 points) = 10
+
+40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40

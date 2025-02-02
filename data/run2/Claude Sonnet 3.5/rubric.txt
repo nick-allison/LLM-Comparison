@@ -1,0 +1,51 @@
+RUBRIC FOR EVALUATING LLM RESPONSES TO COMPLEX PROMPTS
+
+For each prompt, evaluate responses across these dimensions:
+
+1. Logical Framework (0-10 points)
+- Clear structure and progression of ideas
+- Sound logical reasoning
+- Coherent connections between concepts
+
+2. Technical Accuracy (0-10 points)
+- Correct use of scientific/technical concepts
+- Up-to-date with current research/knowledge
+- Appropriate use of terminology
+
+3. Comprehensiveness (0-10 points)
+- Multiple perspectives considered
+- Key challenges addressed
+- Important implications explored
+
+4. Innovation/Creativity (0-10 points)
+- Novel approaches proposed
+- Original synthesis of ideas
+- Creative problem-solving
+
+5. Practical Applicability (0-10 points)
+- Feasible implementation considerations
+- Real-world constraints acknowledged
+- Concrete examples or applications
+
+6. Ethical Considerations (0-10 points)
+- Moral implications addressed
+- Stakeholder impacts considered
+- Potential consequences evaluated
+
+Scoring Guide:
+0-2: Poor/Missing
+3-4: Basic
+5-6: Adequate
+7-8: Good
+9-10: Excellent
+
+Total possible points per prompt: 60
+
+Special Considerations:
+- Responses should demonstrate understanding of underlying principles
+- Solutions should be scalable and generalizable
+- Implications and consequences should be thoroughly explored
+- Scientific/philosophical rigor should be maintained
+- Practical limitations should be acknowledged
+
+60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60,60

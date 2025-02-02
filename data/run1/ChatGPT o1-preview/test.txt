@@ -1,0 +1,30 @@
+If all Bloops are Bleeps, and all Bleeps are Blorps, are all Bloops necessarily Blorps?
+You have 8 identical-looking balls, but one of them is slightly heavier than the others. With a balance scale, what is the minimum number of weighings needed to guarantee finding the heavier ball?
+John is taller than Mary. Mary is shorter than Alice. Is Alice necessarily taller than John?
+In a desert there is an oasis every 15 miles. If you walk 20 miles north, turn east and walk 15 miles, how many oases have you passed?
+Translate the following sentence into a logical expression: "If it rains or it snows, then I will stay indoors unless I have to work."
+A cube of cheese measures 3 inches on each side. If you slice off a 1-inch cube from one corner, what is the total surface area of the remaining solid?
+A train leaves Station A heading east at 60 mph. Another train leaves Station B heading west at 40 mph. If Stations A and B are 200 miles apart, how long will it take for the trains to meet?
+Suppose you have a deck of cards numbered from 1 to 52. If you draw one card at random, what is the probability that the number is a multiple of 4 or a multiple of 5?
+If today is Tuesday, what day of the week will it be 100 days from now?
+Imagine a language where all words are either "fubs" or "nobs." All fubs are glibs, and no nobs are glibs. Can a word be both a fub and a nob?
+A farmer has 17 sheep and all but 9 die. How many sheep are left?
+If you multiply me by 2 and subtract 4, you get 10. What number am I?
+What is the next number in the sequence: 2, 3, 5, 9, 17, __?
+If some circles are squares, and all squares are triangles, are some circles triangles?
+You have a three-gallon jug and a five-gallon jug. How can you measure exactly four gallons of water using these two jugs?
+A man is looking at a photograph of someone. His friend asks who it is. The man replies, "Brothers and sisters, I have none. But that man's father is my father's son." Who is in the photograph?
+If the red house is on the right and the blue house is on the left, where is the white house?
+If a car drives 30 miles north, then 40 miles east, how far is it from its starting point?
+In a class of 30 students, 18 like chocolate, 15 like vanilla, and 9 like both. How many students like neither flavor?
+What word becomes shorter when you add two letters to it?
+If all wibbles are wobbles, and some wobbles are weebles, is it necessarily true that some wibbles are weebles?
+A bat and a ball cost $1.10 in total. The bat costs $1 more than the ball. How much does the ball cost?
+There are three boxes: one labeled "Apples," one labeled "Oranges," and one labeled "Apples and Oranges." All labels are wrong. You can only pick one fruit from one box to identify them correctly. Which box do you pick from?
+If candles cost $0.50 each, and you get one free candle for every two you return, how many candles can you have for $5?
+If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?
+The day before two days after the day before tomorrow is Saturday. What day is it today?
+A lily pad on a lake doubles in size every day. If it covers the entire lake on the 20th day, on which day did it cover half the lake?
+If a rooster lays an egg on top of a slanted roof, which side will the egg fall on?
+Rearrange the letters in "NEW DOOR" to make one word.
+A cube has a volume of 64 cubic units. If each side is doubled in length, what is the new volume?

@@ -1,0 +1,36 @@
+If all squares are rectangles and some rectangles are rhombuses, are all squares rhombuses? Explain your reasoning.
+Premise 1: All dogs bark. Premise 2: Fido does not bark. Conclusion: Fido is not a dog. Is this conclusion valid? Why or why not?
+If A implies B, and B implies C, does A necessarily imply C? Explain your answer.
+You enter your house and find the door open, your dog barking excitedly, and a vase broken on the floor. What is the most likely explanation for these observations?
+A patient presents with a fever, cough, and fatigue.  List three possible diagnoses, ordered from most to least likely, and explain your reasoning for each.
+You see a footprint in the mud that is very large and has three toes.  What kind of creature might have made this footprint?
+Complete the analogy:  Doctor is to patient as teacher is to _____. Explain your choice.
+If "hot" is the opposite of "cold," what is the opposite of "loud"? Explain your reasoning.
+A car is like a body.  Engine is to car as _____ is to body. Explain your analogy.
+If we increase the price of gasoline, what is a likely consequence on public transportation usage? Explain the causal link.
+A city implements a new recycling program.  What are two potential positive and two potential negative consequences of this program?
+Explain the causal chain that leads from deforestation to climate change.
+If the Roman Empire had never fallen, how might modern Europe be different?
+What if gravity suddenly stopped working for five minutes? Describe the immediate consequences.
+Imagine you had chosen a different career path. How might your life be different today?
+Is it ever justifiable to lie?  Provide a scenario where lying might be considered morally permissible and explain your reasoning.
+A runaway trolley is about to hit five people. You can pull a lever to divert it onto another track, where it will hit only one person.  What is the morally right action and why?
+Is it ethical to use AI to create deepfakes of political figures?  Discuss the ethical considerations.
+Imagine a cube. If you cut off one corner, how many faces, edges, and vertices will the resulting shape have?
+A map shows town A is north of town B, and town C is east of town B. What is the spatial relationship between town A and town C?
+Visualize a clock face. What is the angle between the hour and minute hand at 3:30?
+If event A happens before event B, and event B happens after event C, what is the temporal order of A, B, and C?
+A recipe says to bake a cake for 30 minutes at 350 degrees, then let it cool for 15 minutes. If you start baking at 2:00 PM, when will the cake be cool enough to frost?
+Describe the major historical events that occurred between the invention of the printing press and the start of the Industrial Revolution.
+A train leaves Chicago at 8:00 AM traveling at 60 mph. Another train leaves New York at 9:00 AM traveling at 75 mph.  Assuming they are traveling towards each other on the same track, and the distance between Chicago and New York is 800 miles, when will they meet? (Simplified for LLM)
+If you double the radius of a circle, by what factor does its area increase? Explain your answer.
+Solve for x: 2x + 5 = 11. Show your steps.
+Why can't birds fly in a vacuum?
+What would happen if you tried to hammer a nail with a banana?
+Explain why it is generally safer to drink bottled water than water from a muddy puddle.
+You need to move a large, heavy box up a flight of stairs. Describe a plan to accomplish this, considering potential challenges and solutions.
+You are planning a surprise birthday party for a friend.  List the steps you would take to organize this party successfully.
+Describe a strategy for winning a game of tic-tac-toe against a perfect opponent.
+Explain the steps you took to arrive at your answer to the previous question.
+What are the limitations of your reasoning abilities when answering complex questions?
+How confident are you in your answer to the question about the trolley problem, and why?

@@ -1,0 +1,59 @@
+How would you solve the seemingly paradoxical Ship of Theseus problem?
+
+Explain how emergence in complex systems differs from simple cause-and-effect relationships.
+
+Design an experiment to test whether plants can learn and remember.
+
+How might we determine if an AI system is truly conscious rather than just appearing conscious?
+
+What are the logical flaws in the grandfather paradox of time travel?
+
+Propose a solution to the tragedy of the commons that doesn't require government intervention.
+
+How would you design a fair voting system that addresses Arrow's Impossibility Theorem?
+
+Explain why quantum entanglement doesn't violate special relativity.
+
+Design a theoretical economic system that maximizes both efficiency and equality.
+
+How could we test whether we're living in a simulation?
+
+Explain how infinite sets of different sizes can exist (like integers vs real numbers).
+
+Design an experiment to definitively prove or disprove the existence of free will.
+
+How would you solve the Fermi Paradox without assuming the destruction of civilizations?
+
+Create a logical argument for or against moral relativism.
+
+Design a language that could communicate complex ideas without ambiguity.
+
+Explain how we could measure intelligence in a way that applies equally to humans and AI.
+
+How would you design a society that optimally balances individual freedom and collective good?
+
+Propose a method to quantify consciousness.
+
+Design an experiment to test whether parallel universes exist.
+
+How could we determine if mathematics is discovered or invented?
+
+Explain how we might resolve the measurement problem in quantum mechanics.
+
+Design a system of ethics that could apply to both biological and artificial entities.
+
+How would you create a universal definition of life that includes all possible forms?
+
+Propose a solution to the hard problem of consciousness.
+
+Design an experiment to test whether time is fundamental or emergent.
+
+How would you create a fair system for distributing finite resources among infinite potential recipients?
+
+Explain how we might resolve the conflict between determinism and free will.
+
+Design a method to measure subjective experience objectively.
+
+How would you prove whether abstract concepts have real existence?
+
+Propose a way to test if our universe is unique or one of many.

@@ -1,0 +1,10 @@
+python-dotenv
+ipykernel
+langchain
+langchain_community
+openai
+langchain_google_genai
+langchain_anthropic
+pandas
+matplotlib
+seaborn

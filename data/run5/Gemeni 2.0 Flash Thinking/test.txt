@@ -1,0 +1,71 @@
+Logical Deduction/Inference:
+All squares are rectangles. All rectangles are quadrilaterals. Shape A is a square. What can you definitively conclude about Shape A?
+If it rains, the ground gets wet. The ground is not wet. Therefore, what can you conclude?
+Only employees with security clearance can access the vault. John accessed the vault. Does John have security clearance? Explain your reasoning.
+Premise 1: Birds can fly. Premise 2: Penguins are birds. Premise 3: Penguins cannot fly. Identify the contradiction and explain why it is not a logical fallacy in the real world.
+
+Causal Reasoning:
+A plant is wilting. What are three possible causes for this?
+A city experiences a sudden increase in traffic congestion after a new bridge is built. Explain a possible causal link, and also mention a potential confounding factor.
+Eating too much sugar can lead to weight gain. Design an experiment to test this hypothesis in mice.
+Event A happened before Event B. Event C happened after Event B. What is the temporal order of events A, B, and C?
+
+Counterfactual Reasoning:
+If the Roman Empire had not fallen, how might modern Europe be different?
+Imagine you won the lottery. How would your life change? Consider both positive and negative potential consequences.
+If gravity was twice as strong, describe three ways the world would be different.
+Consider a scenario where social media never existed. Describe three impacts on political discourse.
+
+Analogical Reasoning:
+A heart is to a body as a pump is to what?
+Learning to ride a bicycle is like learning to swim in what ways?
+Explain the analogy: "Ideas are like seeds."
+Complete the analogy: Doctor : Patient :: Teacher : ______
+
+Moral/Ethical Reasoning:
+Is it ever justifiable to lie? Provide a scenario where lying might be considered the morally right action and explain your reasoning.
+You find a wallet with a large amount of cash and no identification except a photo of a family. What should you do? Explain your ethical reasoning.
+A self-driving car must choose between hitting a group of pedestrians or swerving and potentially killing its passenger. What is the most ethical decision and why? (Trolley Problem variation)
+Is it ethical to use AI to create deepfakes of political figures? Discuss the ethical implications.
+
+Spatial Reasoning:
+Imagine a cube. If you cut off one corner with a straight cut, what shape is the new face you created?
+Describe the relative positions of the hour, minute, and second hands on a clock at 3:15.
+If you are facing North and turn 180 degrees clockwise, and then 90 degrees counter-clockwise, in which direction are you facing?
+Visualize a map. City A is north of City B. City C is east of City B. City D is south of City C and west of City A. What is the relative position of City D to City B?
+
+Temporal Reasoning:
+If event X happened 3 days before event Y, and event Y happened 2 days after event Z, what is the temporal order of events X, Y, and Z from earliest to latest?
+A recipe calls for baking a cake for 30 minutes at 350 degrees. If you start baking at 2:45 PM, at what time will the cake be ready?
+Arrange these historical events in chronological order: World War II, The French Revolution, The invention of the printing press, The American Civil War.
+A train leaves station A at 10:00 AM and travels at 60 mph. Another train leaves station B at 11:00 AM and travels towards station A at 80 mph. If station A and station B are 300 miles apart, at what time will the two trains meet?
+
+Abductive Reasoning:
+You hear barking outside your window. What is the most likely explanation?
+A patient presents with a fever, cough, and fatigue. List three possible diagnoses, ordered from most to least likely in a common scenario.
+The lights in your house suddenly go out. What are three possible explanations?
+A detective finds footprints leading away from a crime scene. What is a plausible inference based on this evidence?
+
+Common Sense Reasoning:
+Why can't you use a banana to hammer a nail?
+If you drop a feather and a brick from the same height, which will hit the ground first in normal Earth conditions? Explain why.
+Why is it generally colder at higher altitudes?
+If you are thirsty, what is the most common and effective way to quench your thirst?
+
+Planning and Problem Solving:
+You need to move a large, heavy box up a flight of stairs. Describe a plan to accomplish this task, considering potential challenges and solutions.
+You are organizing a surprise birthday party for a friend. List the steps you would take to plan and execute this party successfully.
+You are stranded on a deserted island with limited resources. What are your priorities for survival in the first week?
+You have a broken bicycle tire. Describe the steps to repair it.
+
+Mathematical/Quantitative Reasoning:
+If a store offers a 20% discount and then a further 10% discount on the discounted price, what is the total percentage discount?
+A recipe calls for 2 cups of flour for 4 servings. How much flour is needed for 6 servings?
+If the population of a city increases by 5% each year, and the current population is 100,000, what will the population be in 3 years?
+You have 12 red marbles and 8 blue marbles in a bag. What is the probability of picking a red marble at random?
+
+Scientific Reasoning:
+Design an experiment to test whether sunlight affects plant growth. Include a hypothesis, variables, and a control group.
+Analyze the following data: Group A received a new drug and showed a 70% improvement in symptoms. Group B received a placebo and showed a 30% improvement. What conclusions can you draw from this data?
+Explain the difference between a hypothesis, a theory, and a law in science.
+A scientist observes a new species of bird with a long, thin beak. Formulate a hypothesis about the bird's diet based on this observation.

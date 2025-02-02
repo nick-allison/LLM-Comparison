@@ -1,0 +1,69 @@
+Logical Deduction and Inference:
+If all squares are rectangles, and shape A is a square, is shape A a rectangle?
+Premise 1: Birds can fly. Premise 2: Penguins are birds. Conclusion: Can penguins fly?
+Only authorized personnel are allowed beyond this point. John is not authorized personnel. Is John allowed beyond this point?
+If it is raining, the streets are wet. The streets are not wet. Is it raining?
+All cats are mammals. Some mammals are pets. Are all cats pets?
+
+Common Sense Reasoning:
+Why is it generally colder in winter than in summer?
+If you drop a glass on a hard floor, what is likely to happen?
+What is the purpose of a refrigerator?
+Where would you typically go to see a doctor when you are sick?
+What would you use to cut a piece of paper if you don't have scissors?
+
+Counterfactual Reasoning:
+If humans had wings, how would society be different?
+What if the internet had never been invented? How would communication be different?
+Imagine gravity suddenly reversed for one minute. Describe the immediate consequences.
+If the Earth was flat, how would navigation be different?
+What if animals could talk? How would human-animal relationships change?
+
+Abductive Reasoning:
+The lights are off and the refrigerator is silent. What are some possible explanations?
+The plants in the garden are wilting. What could be causing this?
+You hear sirens outside your house. What might be happening?
+Your car won't start, and the lights are dim. What could be the problem?
+The coffee tastes bitter and burnt. What might have gone wrong during brewing?
+
+Analogical Reasoning:
+A doctor is to health as a teacher is to what?
+A map is to territory as a recipe is to what?
+A seed is to a plant as an egg is to what?
+A library is to books as a museum is to what?
+Happiness is to joy as sadness is to what?
+
+Causal Reasoning:
+What are the likely effects of increased carbon emissions on global temperatures?
+What are the causes of traffic congestion in cities?
+If a country increases its investment in renewable energy, what are the potential benefits?
+What are the consequences of sleep deprivation on cognitive function?
+What are the likely effects of automation on the job market?
+
+Spatial Reasoning:
+If you are facing east and turn 180 degrees, which direction are you facing?
+Describe the spatial relationship between the sun, the Earth, and the moon during a solar eclipse.
+Imagine a cube. How many vertices does it have?
+If a square is inside a circle, and the circle is inside a triangle, describe the relative positions of these shapes.
+Visualize a spiral staircase. Describe the path you would take to ascend it.
+
+Temporal Reasoning:
+What season comes after spring?
+If a train departs at 10:00 AM and travels for 5 hours, when will it arrive?
+Order these historical events chronologically: The invention of the printing press, the discovery of penicillin, the fall of the Roman Empire.
+If today is Tuesday, what day will it be in three days?
+How many months are there in a year?
+
+Moral Reasoning:
+Is it ever acceptable to break a promise? Under what circumstances?
+Is it morally right to prioritize the needs of the majority over the needs of a minority?
+Should a self-driving car be programmed to prioritize the safety of its passengers or pedestrians in an unavoidable accident?
+Is it ethical to use artificial intelligence to create deepfakes?
+Is it justifiable to lie to protect someone's feelings?
+
+Theory of Mind:
+John is looking for his keys. He thinks they are in the kitchen, but they are actually in the living room. Where will John look for his keys?
+Sarah sees Tom hide a cookie under a cup. Then Tom leaves. While Tom is gone, Sarah moves the cookie to a box. When Tom returns, where will Tom look for the cookie?
+Alice tells Bob that she is going to the park. Bob sees Alice go to the library instead. Where does Bob think Alice went?
+Mary is sad because her favorite toy is broken. John knows that Mary is sad, but he doesn't know why. Does John understand Mary's emotional state fully?
+Imagine you are talking to someone who is colorblind. How would you describe the color red to them without using other color names?
